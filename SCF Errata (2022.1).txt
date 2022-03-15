@@ -1,0 +1,52 @@
+Secure Controls Framework (SCF) Errata (2022.1)
+
+Version 2022.1 represents a moderate update, where there is some new content and minor refinement of existing content to standardize wording improve readability.
+
+The SCF is pleased to announce that the Shared Assessments Standard Information Gathering Questionnaire (SIG) mapping is now incorporated into the SCF’s catalog of controls. This was a collaborative endeavor between Shared Assessments and the SCF, where users leveraging the SCF’s comprehensive controls catalog will be able to map directly to questions in the Shared Assessments SIG. This collaboration expands the SIG library related to third party risk management.
+
+Principles Update:
+ - All SCF principles were reviewed and updated, in light of two US Government documents:
+	o Executive Order 14028; and
+	o NIST SP 800-160 vol 2 rev 1
+ - The US Government is ramping up a focus on cybersecurity through a variety of initiatives related to the security and integrity of the software supply chain, including the concept of resiliency.
+ - Resiliency is intended to reduce risk to organizations by having systems, applications and services that are security designed to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises. 
+ - With how US Government regulations “trickle down” through contracts, it was determined that the principles needed to reflect these concepts.
+
+Added Mapping:
+ - Shared Assessments Standard Information Gathering (SIG) 
+ - ISO 27002:2022
+ - NIST SP 800-171A
+ - NIST SP 800-218 v1.1
+ - US - Colorado Privacy Act
+ - US - Illinois Personal Information Protection Act (PIPA)
+ - US - New York SHIELD Act (S5575B)
+ - US - Texas DIR Control Standards 2.0
+ - US - Texas Risk & Authorization Management Program (TX-RAMP)
+ - Australia - Prudential Standard CPS 234 Information Security
+ - Japan - Act on the Protection of Personal Information (June 2020)
+ - Saudi Arabian Monetary Authority (SAMA) Cyber Security Framework (CSF)
+ - Singapore Cyber Hygiene Practice
+ - Singapore MAS TRM Guidelines 2021
+ - Threat catalog:
+	o MT-11 - Statutory / Regulatory / Contractual Obligation
+
+Renamed:
+ - DCH-22.3: Primary Source Personal Data (PD) Collection
+ - TDA-06.3: Software Assurance Maturity Model (SAMM)
+
+Wordsmithed:
+ - AST-02.7: Software Licensing Restrictions
+ - HRS-09.3: Post-Employment Requirements
+
+Updated Mapping:
+ - CMMC 2.0 (Levels 1-3)
+ - IEC 62443-4-2 (control mapping taxonomy)
+ - AST-01 (added 2.1 for CIS v8)
+ - AST-02 (added 2.1 for CIS v8)
+
+Added Controls:
+ - CLD-06.1: Customer Responsibility Matrix (CRM)
+ - IAC-03.5: Acceptance of External Authenticators
+ - PRI-03.6: Proxy Consent
+ - PRI-04.4: Acquired Personal Data (PD)
+ - TDA-20.3: Software Escrow
