@@ -1,0 +1,132 @@
+Secure Controls Framework (SCF) version 2022.3 
+This version represents a minor update, where there is some new content and minor refinement of the risk catalog to standardize wording improve readability. This version also includes a new Evidence Request List (ERL) to help standardize naming for evidence artifacts.
+
+Terminology Wordsmithing:
+	security and privacy controls > cybersecurity and privacy controls
+	security program > cybersecurity program 
+	sensitive data > sensitive/regulated data
+
+Added Mapping:
+	Australian Government Information Security Manual (ISM) September 2022
+	BSI Standard 200-1
+	California Privacy Rights Act (CPRA) - November 2022 version
+	Cybersecurity Capability Maturity Model (C2M2) v2.1
+	Illinois Biometric Information Privacy Act (PIPA)
+	Illinois Identity Protection Act (IPA)
+	ISO 27017:2015
+	ISO 27001:2022
+	Japan Information System Security Management and Assessment Program (ISMAP) 
+	New Zealand NZISM 3.6
+	Shared Assessments SIG 2023
+	US Centers for Medicare & Medicaid Services MARS-E Document Suite, Version 2.0
+
+Updated Mapping:
+	IRS Publication 1075
+
+Removed Mapping:
+	Australian Government Information Security Manual (ISM) November 2020
+	California Consumer Privacy Act (CCPA)
+	APAC - New Zealand NZISM 3.4
+
+Added Controls:
+	GOV-15 - Operationalizing Cybersecurity & Privacy Practices
+	GOV-15.1 - Select Controls
+	GOV-15.2 - Implement Controls
+	GOV-15.3 - Assess Controls
+	GOV-15.4 - Authorize Systems, Applications & Services
+	GOV-15.5 - Monitor Controls
+	BCD-15 - Reserve Hardware
+	CLD-01.1 - Cloud Infrastructure Onboarding
+	CLD-01.2 - Cloud Infrastructure Offboarding
+	CFG-08 - Sensitive / Regulated Data Access Enforcement
+	CFG-08.1 - Sensitive / Regulated Data Actions
+	MON-16.4 - Account Creation and Modification Logging
+	CRY-09.7 - External System Cryptographic Key Control
+	CRY-11 - Certificate Authorities
+	DCH-01.3 - Sensitive / Regulated Media Records
+	IAC-10.12 - Biometric Authentication
+	IAC-16.2 - Privileged Account Separation 
+	IRO-04.3 - Continuous Incident Response Improvements
+	IAO-05.1 - Plan of Action & Milestones (POA&M) Automation
+	MNT-05.7 - Separation of Maintenance Sessions
+	NET-09.2 - Unique System-Generated Session Identifiers
+	NET-18.3 - Route Privileged Network Access
+	PRI-02.7 - Real-Time or Layered Notice
+	PRI-03.7 - Active Participation By Data Subjects
+	PRI-03.8 - Global Privacy Control (GPC)
+	PRI-04.5 - Validate Collected Personal Data
+	PRI-04.6 - Re-Validate Collected Personal Data
+	PRI-17 - Data Subject Communications
+	PRI-17.1 - Conspicuous Link To Privacy Notice
+	PRI-17.2 - Notice of Financial Incentive
+	TDA-02.7 - Security & Privacy Representatives For Product Changes
+	TDA-09.7 - Manual Code Review
+	TDA-14.2 - Hardware Integrity Verification
+
+Renamed:
+	BCD-09.3 - Alternate Site Priority of Service	
+	BCD-10.1 - Telecommunications Priority of Service Provisions
+	CHG-02.3 - Security & Privacy Representative for Asset Lifecycle Changes
+	CLD-03 - Cloud Infrastructure Security Subnet
+	IAO-03.2 - Adequate Security for Sensitive / Regulated Data In Support of Contracts	
+	NET-03.1 - Limit Network Connections
+	PRI-03.3 - Prohibition Of Selling or Sharing Personal Data (PD)
+	PRI-03.6 - Authorized Agent
+	VPM-01.1 - Attack Surface Scope
+
+Wordsmithed Control:
+	CHG-02.3
+	CLD-12
+	NET-03.1
+	PRI-01.5
+	PRI-03.3
+	RSK-08
+	RSK-10
+	VPM-01.1
+
+
+Updated Existing Mappings:
+	CIS v8
+o	IRO-02
+o	IRO-04
+o	IRO-07
+o	IRO-09
+o	IRO-10
+
+	FCT Act Part 314
+o	GOV-01
+
+	ISO 27002:2013
+o	GOV-01
+o	GOV-01.1
+o	GOV-02
+o	GOV-09
+o	DCH-01
+o	HRS-03
+o	HRS-04
+o	HRS-05
+o	HRS-05.1
+o	HRS-05.4
+o	HRS-07
+o	IAC-01
+o	MDM-01
+o	RSK-01
+
+	NIST SP 800-53 R4
+o	MON-03
+o	MON-14
+o	DCH-13.2
+o	DCH-23
+o	IAC-06.4
+o	NET-17
+o	PRI-02.3
+o	PRI-02.4
+o	PRI-03.1
+o	PRI-06.4
+o	OPS-03
+
+	NIST SP 800-53 R5
+o	MON-14
+o	DCH-13.2
+o	IAC-06.4
+o	NET-17
