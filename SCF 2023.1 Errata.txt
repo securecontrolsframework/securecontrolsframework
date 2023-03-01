@@ -1,0 +1,221 @@
+Version 2023.1 represents a major update, due to the inclusion of a new domain, as well as some other new content and minor refinements to improve readability. This version also includes a new Assessment Objectives (AOs) list that is intended to be used to help assess against controls to come to an objective determination if the intent of the control is or is not met.
+
+Added Mapping:
+ - NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0)
+ - Australia ISM December 2022 
+ - CISA Cross-Sector Cybersecurity Performance Goals (CPG)  
+ - EU Digital Operational Resilience Act (DORA)
+ - MPA Content Security Best Practices v5.1 
+ - Spain - ICT Security Guide CCN-STIC 825
+ - Saudi Arabia - Operational Technology Cybersecurity Controls (OTCC -1: 2022)
+ - TSA / DHS Security Directive 1580/82-2022-01 (Rail Cybersecurity Mitigation Actions and Testing) 
+
+Updated Mapping:
+ - SCF-I (Cyber Insurance) baseline
+ - NIST SP 800-171A (Assessment Objectives)
+ - Virginia CDPA 2023 (numbering)
+
+Threat Catalog:
+ - MT-12: Redundant, Obsolete/Outdated, Toxic or Trivial (ROT) Data
+ - MT-13: Artificial Intelligence & Autonomous Technologies (AAT)
+
+Risk Catalog:
+ - R-AM-3: Emergent property and/or unintended consequences
+
+Removed Mapping:
+ - MPA Content Security Best Practices v4.1 
+ 
+Added Controls:
+ - GOV-04.1
+ - GOV-04.2
+ - AAT-01
+ - AAT-01.1
+ - AAT-01.2
+ - AAT-01.3
+ - AAT-02
+ - AAT-02.1
+ - AAT-02.2
+ - AAT-03
+ - AAT-03.1
+ - AAT-04
+ - AAT-04.1
+ - AAT-04.2
+ - AAT-04.3
+ - AAT-04.4
+ - AAT-05
+ - AAT-06
+ - AAT-07
+ - AAT-07.1
+ - AAT-07.2
+ - AAT-07.3
+ - AAT-08
+ - AAT-09
+ - AAT-10
+ - AAT-10.1
+ - AAT-10.2
+ - AAT-10.3
+ - AAT-10.4
+ - AAT-10.5
+ - AAT-10.6
+ - AAT-10.7
+ - AAT-10.8
+ - AAT-10.9
+ - AAT-10.10
+ - AAT-10.11
+ - AAT-10.12
+ - AAT-10.13
+ - AAT-10.14
+ - AAT-11
+ - AAT-11.1
+ - AAT-11.2
+ - AAT-11.3
+ - AAT-11.4
+ - AAT-12
+ - AAT-13
+ - AAT-13.1
+ - AAT-14
+ - AAT-14.1
+ - AAT-14.2
+ - AAT-15
+ - AAT-15.1
+ - AAT-15.2
+ - AAT-16
+ - AAT-16.1
+ - AAT-16.2
+ - AAT-16.3
+ - AAT-16.4
+ - AAT-16.5
+ - AAT-16.6
+ - AAT-16.7
+ - AAT-17
+ - AAT-17.1
+ - AAT-17.2
+ - AAT-17.3
+ - AAT-18
+ - AAT-18.1
+ - AST-31
+ - AST-31.1
+ - BCD-11.9
+ - BCD-11.10
+ - BCD-16
+ - RSK-01.2
+ - RSK-01.3
+ - RSK-01.4
+ - RSK-09.2
+ - RSK-12
+ - TPM-05.7
+
+Renamed:
+ - GOV-01
+ - GOV-01.1
+ - GOV-02
+ - GOV-03
+ - GOV-04
+ - DCH-18.1
+ - DCH-18.2
+ - MON-03
+
+Updated Mapping:
+ - NIST SP 800-53 R5
+    o TPM-05
+ - NIST SP 800-171A
+    o GOV-02
+    o BCD-11.4
+    o CPL-02
+    o CFG-01
+    o CFG-03
+    o CFG-03.1
+    o CFG-05
+    o MON-01
+    o MON-01.3
+    o MON-01.8
+    o MON-02
+    o MON-02.1
+    o MON-03
+    o MON-03.2
+    o MON-03.7
+    o MON-07
+    o MON-07.1
+    o MON-10
+    o CRY-01
+    o CRY-01.1
+    o CRY-04
+    o CRY-05
+    o DCH-01
+    o DCH-03
+    o DCH-09
+    o DCH-10
+    o DCH-10.2
+    o END-01
+    o END-03.2
+    o END-04
+    o END-04.1
+    o END-04.7
+    o HRS-01
+    o HRS-05.1
+    o HRS-07
+    o HRS-08
+    o HRS-09
+    o IAC-02
+    o IAC-03
+    o IAC-05
+    o IAC-06.1
+    o IAC-06.2
+    o IAC-06.3
+    o IAC-10
+    o IAC-10.1
+    o IAC-15
+    o IAC-15.3
+    o IAC-20
+    o IAC-21.4
+    o IAC-21.5
+    o IRO-01
+    o IRO-10
+    o IAO-02
+    o IAO-03
+    o IAO-05
+    o MNT-02
+    o MNT-04
+    o MNT-04.2
+    o MNT-05
+    o MNT-06
+    o MDM-03
+    o NET-06
+    o NET-13
+    o PES-01
+    o PES-03
+    o PES-03.3
+    o PES-05.2
+    o PES-06
+    o SEA-01
+    o SAT-02
+    o SAT-03
+    o TDA-06
+    o THR-03
+    o VPM-01
+    o VPM-02
+    o VPM-05
+    o VPM-06
+
+Control Wordsmithing:
+ - GOV-01.1
+ - BCD-11.1
+ - CLD-04
+ - CFG-02
+ - CRY-01.1
+ - DCH-04.1
+ - DCH-23.9
+ - IAC-09.2
+ - IAC-20.2
+ - IRO-02.6
+ - NET-02
+ - NET-10.1
+ - NET-15.1
+ - PES-06.3
+ - PES-18
+ - PRI-07
+ - PRI-07.1
+ - PRM-02
+ - RSK-02
+ - SEA-08.1
+ - VPM-06.7
