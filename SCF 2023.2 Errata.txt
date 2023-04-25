@@ -1,0 +1,186 @@
+Version 2023.2 represents a minor update. While there are no new controls, the Security & Privacy Capability Maturity Model (SP-CMM) was completely refreshed with new content.  
+
+Added Mapping:
+ - Safeguarding of Naval Nuclear Propulsion Information (NNPI)
+ - Trust Services Criteria 2017 (points of focus)
+ - UK Cyber Assessment Framework v3.1
+
+Wordsmithing control:
+ - NET-08.1
+ - NET-08.2
+
+Updated Mapping:
+ - NIST CSF 1.1
+    o AST-01
+    o AST-09
+    o CFG-01
+    o CHG-01
+    o CRY-01
+    o END-01
+    o IAC-10
+    o IRO-02
+    o IRO-04
+    o IRO-05
+    o MNT-01
+    o MON-02
+    o RSK-02
+    o RSK-09
+    o SEA-07
+    o TDA-01
+    o THR-01
+    o TPM-01
+    o TPM-03
+    o TPM-04
+    o VPM-03
+ - NIST SP 800-171
+    o AST-01
+    o AST-02.1
+    o AST-05
+    o CHG-01
+    o CLD-01
+    o CLD-02
+    o CLD-03
+    o CPL-02.1
+    o CFG-02
+    o CFG-03.2
+    o MON-02
+    o MON-03.1
+    o CRY-03
+    o CRY-04
+    o CRY-09
+    o DCH-03
+    o DCH-06
+    o DCH-13.1
+    o END-03
+    o HRS-05
+    o IAC-04
+    o IAC-08
+    o IAC-16
+    o IAC-16.1
+    o IAC-21.1
+    o IAC-21.3
+    o IAC-21.4
+    o IAC-24.1
+    o IRO-05
+    o IAO-02
+    o IAO-03.2
+    o MNT-04.1
+    o MDM-01
+    o MDM-06
+    o MDM-07
+    o NET-04.1
+    o NET-08
+    o NET-14
+    o NET-14.5
+    o NET-18
+    o PES-04
+    o PES-05
+    o PES-05.1
+    o PES-05.2
+    o PES-12
+    o PES-12.1
+    o PES-12.2
+    o SEA-03
+    o SEA-07
+    o SEA-18.1
+    o SEA-18.2
+    o SEA-20
+    o TDA-01
+    o TDA-08
+    o TPM-05
+    o TPM-05.2
+    o THR-01
+    o THR-03
+    o VPM-05
+    o VPM-06.3
+ - NIST SP 800-171A
+    o CRY-09
+    o DCH-03
+    o IAC-08
+ - CMMC
+    o AST-01
+    o AST-04.1
+    o CHG-01
+    o CPL-02.1
+    o CPL-03
+    o CFG-02
+    o CFG-03.2
+    o MON-02
+    o MON-03.1
+    o CRY-03
+    o CRY-09
+    o DCH-03
+    o DCH-06
+    o DCH-13.1
+    o END-03
+    o IAC-04
+    o IAC-08
+    o IAC-16
+    o IAC-16.1
+    o IAC-21.1
+    o IAC-21.3
+    o IAC-21.4
+    o IAC-24.1
+    o IRO-05
+    o IAO-02
+    o IAO-03.2
+    o MNT-04.1
+    o MDM-01
+    o MDM-06
+    o MDM-07
+    o NET-08
+    o NET-14
+    o NET-14.5
+    o NET-18
+    o PES-04
+    o PES-05
+    o PES-05.1
+    o PES-05.2
+    o PES-12
+    o PES-12.1
+    o PES-12.2
+    o SEA-03
+    o SEA-18.1
+    o SEA-18.2
+    o SEA-20
+    o TDA-08
+    o TPM-05
+    o TPM-05.2
+    o THR-01
+    o THR-03
+    o VPM-05
+    o VPM-06.3
+ - NIST SP 800-53 R5
+    o AST-02.5
+    o CPL-03
+    o HRS-05
+    o TDA-01
+ - DFARS 252.204-7012
+    o TPM-05.2
+ - PCI DSS 3.2
+    o IAC-01
+ - ISO 27001
+    o NET-08.1
+ - ISO 27002
+    o IRO-11
+    o NET-08.1
+    o PRI-02
+    o PRI-02.1
+    o WEB-02
+ - COBIT 2019
+    o GOV-02
+    o GOV-05.1
+    o GOV-05.2
+    o IAO-04
+    o TDA-15
+    o VPM-04
+    o IAO-05
+ - TSC 2017
+    o GOV-15.1
+    o GOV-15.2
+ - CIS 8.0
+    o BCD-01
+    o CFG-01
+    o CFG-02
+    o CFG-02.1
+
