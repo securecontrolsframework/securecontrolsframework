@@ -41,6 +41,7 @@ Updated Mapping:
     o CLD-02
     o CLD-03
     o CPL-02.1
+    o CPL-03
     o CFG-02
     o CFG-03.2
     o MON-02
