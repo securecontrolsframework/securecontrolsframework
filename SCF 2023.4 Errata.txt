@@ -1,0 +1,104 @@
+Version 2023.4 represents a minor update. 
+ - There are new controls.
+ - Risk & threat models were updated.
+
+Added Mapping:
+ - CIS CSC v8.0 IG1-IG3
+ - ISO/SAE 21434:2021 - Road vehicles — Cybersecurity engineering
+ - NIST SP 800-82 - Guide to Industrial Control Systems (ICS) Security Rev 3 (OT Overlay low, mod, high)
+ - NIST SP 800-171 R3 Final Public Draft (FPD) 
+ - NIST 800-171A R3 Initial Public Draft (IPD)
+ - UN - UNECE WP.29 
+ - US - 52.204-27 Prohibition on a ByteDance Covered Application
+ - Germany - Banking Supervisory Requirements for IT (BAIT)
+ - Australia - Prudential Standard CPS 230 - Operational Risk Management
+
+New Controls:
+ - CLD-13: Hosted Systems, Applications & Services
+ - CLD-13.1: Authorized Individuals For Hosted Systems, Applications & Services	
+ - CLD-13.2: Sensitive/Regulated Data On Hosted Systems, Applications & Services	
+ - CLD-14: Prohibition On Unverified Hosted Systems, Applications & Services
+ - DCH-01.4: Defining Access Authorizations for Sensitive/Regulated Data
+ - IAC-20.7: Authorized System Accounts	
+ - TPM-03.4: Adequate Supply
+ - WEB-14: Publicly Accessible Content Reviews
+
+Renamed Controls:
+ - CPL-02 - Cybersecurity & Data Protection Controls Oversight 
+ - CPL-03 - Cybersecurity & Data Protection Assessments
+ - CPL-03.2 - Functional Review Of Cybersecurity & Data Protection Controls
+ - DCH-09 - System Media Sanitization
+ - DCH-09.1 - System Media Sanitization Documentation
+ - IAC-02.2 - Replay-Resistant Authentication
+ - IAC-15.1 - Automated System Account Management (Directory Services)
+ - IAC-15.7 - System Account Reviews
+
+Control Wordsmithing:
+ - AST-02.5 - Network Access Control (NAC)
+ - BCD-11.7 - Redundant Secondary System
+ - CPL-02 - Cybersecurity & Data Protection Controls Oversight
+ - CPL-03 - Cybersecurity & Data Protection Assessments
+ - CPL-03.1 - Independent Assessors
+ - CPL-03.2 - Functional Review Of Cybersecurity & Data Protection Controls
+ - CFG-03.4 - Split Tunneling
+ - MON-03 - Content of Event Logs
+ - DCH-09 - System Media Sanitization
+ - DCH-09.1 - System Media Sanitization Documentation
+ - DCH-14.3 - Data Access Mapping
+ - IAC-02.2 - Replay-Resistant Authentication
+ - IAC-15.1 - Automated System Account Management (Directory Services)
+ - IAC-15.7 - System Account Reviews
+ - VPM-06.5 - Review Historical Event Logs
+
+New Threats:
+ - MT-14: Willful Criminal Conduct
+ - MT-15: Conflict of Interest (COI)
+ - MT-16: Macroeconomics
+
+Updated Mapping:
+ - NIST SP 800-53 R5
+  > AST-03
+  > AST-04.1
+  > BCD-10.4
+  > BCD-12.2
+  > BCD-13
+  > CLD-03
+  > CFG-08
+  > MON-07.1
+  > MON-08.1
+  > END-12
+  > IAC-01.2
+  > MNT-05.1
+  > MNT-08
+  > NET-06.5
+  > NET-14.8
+  > PES-05.2
+  > SEA-07.2
+  > SEA-07.3
+  > SAT-03.2
+  > TPM-03.4
+ - CIS 8.0
+  > CRY-05
+  > END-04
+  > END-04.3
+ - DFARS
+  > GOV-06
+  > GOV-15.1
+  > GOV-15.2
+  > AST-17
+  > CPL-01
+  > CPL-01.1
+  > DCH-01.2
+  > END-04
+  > IRO-04.1
+  > IRO-08
+  > IRO-10
+  > IRO-10.2
+  > IRO-10.4
+  > IRO-12
+  > IAO-02
+  > SEA-02.1
+  > TPM-01
+  > TPM-01.1
+  > TPM-05
+  > TPM-05.2
