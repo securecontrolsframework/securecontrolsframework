@@ -19,6 +19,7 @@ New Controls:
  - CLD-13.2: Sensitive/Regulated Data On Hosted Systems, Applications & Services	
  - CLD-14: Prohibition On Unverified Hosted Systems, Applications & Services
  - DCH-01.4: Defining Access Authorizations for Sensitive/Regulated Data
+ - IAC-01.2: Authenticate, Authorize and Audit (AAA)
  - IAC-20.7: Authorized System Accounts	
  - TPM-03.4: Adequate Supply
  - WEB-14: Publicly Accessible Content Reviews
