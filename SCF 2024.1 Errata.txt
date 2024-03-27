@@ -1,0 +1,115 @@
+Version 2024.1 represents a minor update. 
+ - There are new controls to address newly mapped laws, regulations and frameworks.
+ - The SCF started utilizing Set Theory Relationship Mapping (STRM) per NIST IR 8477 - https://securecontrolsframework.com/set-theory-relationship-mapping-strm/
+
+Added Mapping:
+- NIST Cybersecurity Framework 2.0 (NIST CSF 2.0)
+- NIST SP 800-207
+- DoD Zero Trust Reference Architecture v2 (July 2022)
+- Australia Essential 8
+- China Cybersecurity Law (2017)
+- Criminal Justice Information Services (CJIS) 5.9.3
+- Trusted Internet Connections 3.0
+- Digital Operational Resilience Act (DORA)
+- FTC's Standards for Safeguarding Consumer Information (GLBA 2023)
+- IEC TR 60601-4-5:2021
+- ISO 42001:2024
+- NIS 2 Directive
+- NY DFS NYCRR500 (2023)
+- SEC Cybersecurity Rule (2023)
+- Spain Royal Decree 311/2022
+- Space Attack Research & Tactic Analysis (SPARTA) Countermeasures
+- Tennessee Information Protection Act
+- Trust Services Criteria (TSC) 2017 with 2022 Points of Focus
+
+New Controls:
+- GOV-16: Materiality Determination
+- GOV-16.1: Material Risks
+- GOV-16.2: Material Threats
+- GOV-17: Cybersecurity & Data Privacy Status Reporting
+- AAT-12.1: Data Source Identification
+- AAT-12.2: Data Source Integrity
+- BCD-01.5: Recovery Operations Criteria
+- BCD-01.6: Recovery Operations Communications
+- BCD-13.1: Restoration Integrity Verification
+- CAP-05: Elastic Expansion
+- CAP-06: Regional Delivery
+- CRY-12: Certificate Monitoring
+- DCH-27: Data Rights Management (DRM)
+- END-14.3: Participant Identity Verification
+- END-14.4: Participant Connection Management
+- END-14.5: Malicious Link & File Protections
+- IAC-04.2: Device Authorization Enforcement
+- IAC-13.3: Continuous Authentication
+- NET-06.6: Microsegmentation
+- NET-08.3: Host Containment
+- NET-08.4: Resource Containment
+- NET-18.4: Protocol Compliance Enforcement
+- NET-18.5: Domain Name Verification
+- NET-18.6: Internet Address Denylisting
+- NET-18.7: Bandwidth Control
+- NET-18.8: Authenticated Proxy
+- NET-18.9: Certificate Denylisting
+- NET-19: Content Disarm and Reconstruction (CDR)
+- NET-20: Email Content Protections
+- NET-20.1: Email Domain Reputation Protections
+- NET-20.2: Sender Denylisting
+- NET-20.3: Authenticated Received Chain (ARC)
+- NET-20.4: Domain-Based Message Authentication Reporting and Conformance (DMARC)
+- NET-20.5: User Digital Signatures for Outgoing Email
+- NET-20.6: Encryption for Outgoing Email
+- NET-20.7: Adaptive Email Protections
+- NET-20.8: Email Labeling
+- NET-20.9: User Threat Reporting
+- PRI-18: Data Controller Communications
+- SEA-04.4: System Privileges Isolation
+- SEA-21: Application Container
+- OPS-06: Security Orchestration, Automation, and Response (SOAR)
+- OPS-07: Shadow Information Technology Detection
+- THR-11: Behavioral Baselining
+
+Renamed Controls:
+none
+
+Control Wordsmithing:
+- AAT-12
+- CFG-02.2
+- DCH-22
+- NET-18
+- PRI-01.3
+- PRI-02
+- RSK-01
+- RSK-01.1
+- TPM-05
+
+Updated Mapping:
+- NIST SP 800-53 R5
+  > AST-08
+  > IAC-09.3
+  > TDA-06.2
+  > TDA-13
+- NIST 800-171 R2
+  > IAC-08
+  > IAC-15.1
+- DORA
+  > GOV-01
+  > GOV-01.2
+  > GOV-15
+  > CPL-01
+  > CPL-01.2
+  > MON-01
+  > MON-16
+  > IRO-01
+  > IRO-10
+  > NET-08
+  > RSK-09
+  > SEA-01
+  > TDA-17.1
+  > TPM-01
+  > TPM-03
+  > TPM-03.1
+  > TPM-04
+  > TPM-05
+  > TPM-05.7
+  > TPM-08
+  > VPM-07.1
