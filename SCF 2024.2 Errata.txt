@@ -1,0 +1,159 @@
+Version 2024.2 represents a moderate update, based on new and changed controls. There is an addition of tagging controls based on People, Processes, Technology, Data & Facilities (PPTDF) Applicability:
+ - People - A "people" control is primarily applied to humans (e.g., employees, contractors, third-parties, etc.)
+ - Process - A "process" control is primarily applied to a manual or automated process.
+ - Technology - A "technology" control is primarily applied to a system, application and/or service.
+ - Data - A "data" control is primarily applied to data (e.g., CUI, CHD, PII, etc.).
+ - Facility - A "facility" control is primarily applied to a physical building (e.g., office, data center, warehouse, home office, etc.)
+
+There is also the addition of the "MSP/MSSP Secure Practices Baseline" as the SCF-M sub-control set. This is intended to help organizations perform Cybersecurity Supply Chain Risk Management (C-SCRM) assessments of their Managed Service Providers (MSP) and Managed Security Service Providers (MSSP). SCF-M is specifically tailored for identifying reasonable controls across a set of common compliance expectations. SCF-M is comprised of controls from:
+ - AICPA / CICA Privacy Maturity Model (GAPP)
+ - NAIC Insurance Data Security Model Law (MDL-668)
+ - NIST 800-161 rev 1 C-SCRM Baseline
+ - NIST 800-171 rev 3
+ - NIST 800-207 (Zero Trust Architecture)
+ - NIST CSF v2.0 IPD
+ - OWASP Top 10 v2021
+ - DHS CISA TIC 3.0
+ - FAR Section 889
+ - GLBA CFR 314 (Dec 2023)
+ - SEC Cybersecurity Rule
+
+Added mappings:
+ - NIST 800-171 R3
+ - NIST 800-171A R3
+ - NY DFS 23 NYCRR500 2023 Amendment 2
+
+New controls:
+ - AST-01.4: Approved Technologies
+ - CFG-06.1: Integrity Assurance & Enforcement (IAE)
+ - END-14.6: Explicit Indication Of Use
+ - SAT-03.9: Counterintelligence Training
+ - THR-03.1: Threat Intelligence Reporting
+
+Renamed controls:
+ - CFG-03.3: Explicitly Allow / Deny Applications
+ - CHG-04.4: Permissions To Implement Changes
+ - CHG-06: Control Functionality Verification
+ - CLD-11: Cloud Access Security Broker (CASB)
+ - CRY-01.2: Export-Controlled Cryptography
+ - END-06.2: Endpoint Detection & Response  (EDR)
+ - IAC-13.1: Single Sign-On (SSO) Transparent Authentication
+ - NET-05: Interconnection Security Agreements (ISAs)
+ - NET-06: Network Segmentation (macrosegementation)
+ - NET-07: Network Connection Termination
+
+Wordsmithed controls:
+ - IAC-06.4
+ - CFG-03.3
+ - CHG-06
+ - CLD-04
+ - CLD-11
+ - DCH-14.3
+ - END-06
+ - END-07
+ - IAC-21.3
+ - IAC-28
+ - MDM-01
+ - MON-01.4
+ - NET-04
+ - NET-05
+ - NET-07
+ - NET-14.7
+ - PES-03.3
+ - PRI-05.3
+ - PRI-10
+ - SAT-03.6
+ - TDA-02.3
+ - THR-03
+ - VPM-06
+
+Updating mappings:
+
+ - ISO 27001:2022
+  > GOV-10
+  > AST-02.9
+  > AST-04.1
+  > AST-06
+  > END-09
+  > IAC-21.3
+  > NET-01
+  > NET-03.3
+  > NET-03.5
+  > PRI-05.5
+  > TPM-05.4
+ - ISO 27002:2002
+  > GOV-10
+  > AST-02.9
+  > AST-04.1
+  > AST-06
+  > END-09
+  > IAC-21.3
+  > NET-01
+  > NET-03.3
+  > NET-03.5
+  > PRI-05.5
+  > TPM-05.4
+ - ISO 27017
+  > IRO-11
+ - NIST 800-161
+  > BCD-08
+  > BCD-09
+  > CAP-02
+  > CFG-01.1
+  > CFG-03.4
+  > CFG-04.1
+  > CHG-06
+  > CLD-09
+  > CRY-05
+  > DCH-19
+  > GOV-02
+  > GOV-03
+  > GOV-06
+  > GOV-10
+  > HRS-05
+  > IAC-01.2
+  > IAC-20
+  > IAC-21
+  > IRO-02
+  > IRO-02.5
+  > IRO-10
+  > IRO-10.4
+  > IRO-11
+  > IRO-14
+  > MNT-02
+  > NET-04.2
+  > NET-04.5
+  > NET-11
+  > PES-01
+  > PRI-13
+  > RSK-09
+  > SAT-02
+  > SAT-03
+  > SAT-03.9
+  > SEA-01
+  > SEA-07
+  > SEA-15
+  > TDA-01
+  > TDA-04
+  > TDA-04.1
+  > TDA-04.2
+  > TDA-05
+  > TDA-06.1
+  > TPM-03
+  > TPM-04
+  > TPM-05.4
+  > TPM-05.7
+  > THR-01
+  > THR-03
+ - NIST 800-53 R5
+  > RSK-09
+  > TPM-02
+  > TPM-03
+  > TPM-05
+  > TPM-05.4
+  > TPM-05.7
+ - NIST 800-171A
+  > IAO-03
+  > IAO-05
+  > IAC-03
+  > IAC-05
