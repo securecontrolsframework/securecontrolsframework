@@ -1,0 +1,311 @@
+Version 2024.3 represents a minor update, based on new and changed controls. New content includes possible solutions & considerations based on BLS firm size classes 1-9. You can download the new version from - https://securecontrolsframework.com/scf-download/ and errata is available at https://securecontrolsframework.com/errata/
+
+Added Set Theory Relationship Mappings (STRM) for:
+- TISAX ISA v6.0.3
+- Australia ISM June 2024
+- New Zealand Health ISF 2022
+- PCI DSS v4
+- CIS CSC 8.0
+- CMMC Level 1 / FAR 52.204-21
+- NIST 800-171A
+
+Removed mappings to:
+- TISAX ISA v5.1.0
+- Australia ISM 2022
+- New Zealand Health ISF
+
+New controls:
+- IAC-01.3 - User & Service Account Inventories
+- NET-04.14 - Application Proxy
+- NET-06.7 - Software Defined Networking (SDN)
+- PES-01.2 - Zone-Based Physical Security
+- TDA-01.4 - DevSecOps
+
+New risks:
+- R-SC-1 - Third-party cybersecurity exposure
+- R-SC-2 - Third-party physical security exposure
+- R-SC-3 - Third-party supply chain relationships, visibility and controls
+- R-SC-4 - Third-party compliance / legal exposure
+- R-SC-5 - Use of product / service
+- R-SC-6 - Reliance on the third-party
+
+New threats:
+- MT-17 - Foreign Ownership, Control, or Influence (FOCI)
+- MT-18 - Geopolitical
+- MT-19 - Sanctions
+- MT-20 - Counterfeit / Non-Conforming Products
+- MT-21 - Operational Environment
+- MT-22 - Supply Chain Interdependencies
+- MT-23 - Third-Party Quality Deficiencies
+
+Renamed controls:
+- AST-08
+- AST-15
+- BCD-06
+- BCD-10.4
+- DCH-18.1
+- IAC-10.8
+- NET-04.7
+- NET-18.1
+- TPM-05.8
+- THR-03
+
+Wordsmithed controls:
+- MON-01.4
+- DCH-18.1
+- HRS-03
+- IAC-10.8
+- NET-04.7
+- THR-03
+
+Updating mappings:
+- CIS
+  > AST-01
+  > AST-02.2
+  > AST-02.9
+  > AST-03.2
+  > BCD-11.5
+  > CHG-06
+  > CFG-01
+  > CFG-02
+  > CFG-02.1
+  > CFG-03
+  > CFG-03.2
+  > CFG-05.2
+  > CFG-06.1
+  > MON-01
+  > MON-01.4
+  > MON-03
+  > MON-04
+  > CRY-01
+  > CRY-05
+  > CRY-05.1
+  > DCH-01.2
+  > DCH-01.4
+  > DCH-14.3
+  > END-04
+  > END-04.3
+  > END-04.7
+  > END-05
+  > END-06.2
+  > END-08
+  > HRS-05.3
+  > HRS-05.4
+  > IAC-01
+  > IAC-01.2
+  > IAC-03
+  > IAC-04
+  > IAC-08
+  > IAC-13.1
+  > IAC-13.2
+  > IAC-15.1
+  > IAC-16
+  > IRO-02
+  > IRO-04
+  > IRO-06
+  > IRO-07
+  > IRO-10
+  > IRO-15
+  > MDM-01
+  > MDM-06
+  > MDM-07
+  > NET-03
+  > NET-08.3
+  > NET-20.4
+  > RSK-06.2
+  > RSK-09.1
+  > SAT-03
+  > SAT-03.8
+  > SAT-03.9
+  > TDA-01
+  > TDA-01.1
+  > TDA-02
+  > TDA-02.1
+  > TDA-02.5
+  > TDA-02.6
+  > TDA-17
+  > TPM-05.4
+  > TPM-05.5
+  > TPM-08
+  > THR-06
+  > VPM-04
+  > VPM-05.1
+  > VPM-06.6
+  > VPM-06.7
+  > VPM-07
+  > WEB-07
+  > WEB-08
+- CMMC Level 1
+  > IAC-02
+  > IAC-04
+  > IAC-15
+  > IAC-20
+  > NET-03
+  > TPM-01
+  > VPM-02
+  > VPM-04
+  > VPM-05
+  > WEB-01
+  > WEB-02
+  > WEB-04
+- FAR 52.204-21
+  > GOV-01
+  > GOV-02
+  > GOV-04
+  > GOV-04.1
+  > GOV-15
+  > AST-01
+  > CLD-03
+  > CLD-04
+  > CLD-07
+  > CLD-09
+  > CPL-01
+  > CFG-03
+  > DCH-01
+  > DCH-16
+  > DCH-21
+  > END-01
+  > END-04
+  > HRS-01
+  > HRS-05
+  > IAC-04
+  > IAC-09
+  > IAC-10
+  > IAC-10.1
+  > IAC-15.1
+  > IRO-15
+  > NET-02
+  > NET-05.1
+  > NET-08.1
+  > NET-14
+  > NET-14.5
+  > PES-01
+  > PES-03
+  > PES-03.1
+  > PES-03.3
+  > SEA-01
+  > SEA-02
+  > SEA-03
+  > TDA-11.2
+  > TPM-01
+  > TPM-05
+  > TPM-05.2
+  > THR-03
+- PCI DSS v4
+  > GOV-01
+  > GOV-02
+  > GOV-03
+  > GOV-04
+  > AST-01
+  > AST-02
+  > AST-04.2
+  > AST-04.3
+  > AST-05
+  > BCD-11
+  > CHG-01
+  > CHG-02
+  > CHG-02.4
+  > CPL-01
+  > CFG-01
+  > CFG-02
+  > CFG-02.1
+  > CFG-02.5
+  > CFG-03
+  > CFG-03.1
+  > MON-01
+  > MON-01.4
+  > MON-01.7
+  > MON-01.8
+  > MON-01.10
+  > MON-03
+  > MON-16
+  > CRY-01
+  > CRY-02
+  > CRY-03
+  > CRY-05
+  > CRY-05.1
+  > CRY-09
+  > DCH-01.2
+  > DCH-03.1
+  > DCH-06
+  > DCH-06.1
+  > DCH-06.5
+  > DCH-07
+  > DCH-08
+  > DCH-13.1
+  > DCH-18
+  > END-01
+  > END-04
+  > END-04.1
+  > END-04.7
+  > END-06
+  > END-08
+  > END-16
+  > HRS-03
+  > HRS-03.1
+  > IAC-01
+  > IAC-03
+  > IAC-06.1
+  > IAC-06.2
+  > IAC-10
+  > IAC-10.1
+  > IAC-12
+  > IAC-17
+  > IAC-20.6
+  > IAC-21
+  > IRO-01
+  > IRO-02
+  > IRO-12.3
+  > IRO-13
+  > IAO-04
+  > NET-01
+  > NET-02
+  > NET-02.2
+  > NET-04.7
+  > NET-06
+  > NET-08.1
+  > NET-09
+  > NET-12
+  > NET-12.1
+  > NET-14
+  > NET-15
+  > NET-15.1
+  > PES-01
+  > PES-02
+  > PES-02.1
+  > PES-06.4
+  > PRI-05
+  > PRI-05.5
+  > PRI-08
+  > RSK-05
+  > RSK-06
+  > RSK-06.2
+  > SEA-01
+  > SEA-02.3
+  > SEA-04.1
+  > OPS-01
+  > OPS-01.1
+  > SAT-01
+  > SAT-02
+  > SAT-03
+  > SAT-03.3
+  > SAT-03.5
+  > SAT-03.6
+  > SAT-04
+  > TDA-07
+  > TDA-15
+  > TPM-01
+  > TPM-04
+  > TPM-04.4
+  > TPM-05
+  > THR-01
+  > VPM-01
+  > VPM-01.1
+  > VPM-02
+  > VPM-03
+  > VPM-04
+  > VPM-06
+  > VPM-06.2
+  > VPM-06.6
+  > VPM-06.7
+  > WEB-10
