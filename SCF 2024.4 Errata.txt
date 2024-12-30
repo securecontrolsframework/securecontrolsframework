@@ -1,4 +1,4 @@
-Version 2024.3 represents a minor update, based on new and changed controls. New content includes possible solutions & considerations based on BLS firm size classes 1-9. You can download the new version from https://securecontrolsframework.com/scf-download/ and errata is available at https://securecontrolsframework.com/errata/
+Version 2024.4 represents a minor update, based on new and changed controls. You can download the new version from https://securecontrolsframework.com/scf-download/ and errata is available at https://securecontrolsframework.com/errata/
 
 Added Set Theory Relationship Mappings (STRM) for:
  HIPAA Security Rule (NIST SP 800-66 R2)
