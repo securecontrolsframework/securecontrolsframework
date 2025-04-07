@@ -1,3 +1,5 @@
+Version 2025.1.1 added the missing column for the India Digital Personal Data Protection Act (DPDPA) from the main SCF spreadsheet.
+
 Version 2025.1 represents a minor update, based on new and changed controls in the Secure Controls Framework (SCF). You can download the new version of the SCF and errata from:
  SCF https://securecontrolsframework.com/scf-download/
  Errata https://securecontrolsframework.com/errata/
