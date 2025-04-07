@@ -1,0 +1,121 @@
+Version 2025.1.1 added the missing column for the India Digital Personal Data Protection Act (DPDPA) from the main SCF spreadsheet.
+
+Version 2025.1 represents a minor update, based on new and changed controls in the Secure Controls Framework (SCF). You can download the new version of the SCF and errata from:
+ SCF https://securecontrolsframework.com/scf-download/
+ Errata https://securecontrolsframework.com/errata/
+
+Added Set Theory Relationship Mappings (STRM) for:
+ UK Defence Standard (Def Stan) 05-138
+ India  Digital Personal Data Protection Act (DPDPA)
+ Saudi Arabia IoT CGIoT-1
+ Saudi Arabia Person Data Protection Law (PDPL)
+ Spain BOE-A-2022-7191
+ UAE National Information Assurance Framework (NIAF)
+ EU General Data Protection Regulation (GDPR)
+ US Data Privacy Framework
+ US Oregon Data Privacy Act (SB619)
+ US Texas Data Privacy & Security Act 
+
+Removed mappings to:
+ EU ePrivacy Directive
+ Czech Republic Act No. 101/2000 on the Protection of Personal Data
+ Denmark Act on Processing of Personal Data (Act No. 429 of May 31, 2000)
+ Finland Personal Data Act (986/2000)
+ France 78 17 / 2004 8021 - Information Technology, Data Files & Civil Liberty
+ Luxembourg Protection of Personals with Regard to the Processing of Personal Data
+ Portugal Act on the Protection of Personal Data
+ Slovak Republic Protection of Personal Data (122/2013)
+ UAE Data Protection Law No. 1 of 2007
+ Indonesia Government Regulation No. 82 of 2012
+
+New controls:
+ CPL-01.3 - Ability To Demonstrate Conformity
+ CPL-02.2 - Periodic Audits
+ CPL-07 - Grievances
+ CPL-07.1 - Grievance Response
+ MON-17 - Event Log Analysis & Triage
+ MON-17.1 - Event Log Review Escalation Matrix
+ HRS-01.1 - Onboarding, Transferring & Offboarding Personnel
+ HRS-14 - Identifying Authorized Work Locations
+ HRS-14.1 - Communicating Authorized Work Locations
+ HRS-15 - Reporting Suspicious Activities
+ PES-19 - Physical Access Device Inventories
+ PRI-01.8 - Data Fiduciary
+ PRI-01.9 - Personal Data (PD) Process Manager
+ PRI-01.10 - Financial Incentives For Personal Data (PD)
+ PRI-03.9 - Continued Use of Personal Data (PD)
+ PRI-03.10 - Cease Processing, Storing and/or Sharing Personal Data (PD)
+ PRI-03.11 - Communicating Processing Changes
+ PRI-04.7 - Personal Data (PD) Collection Methods
+ PRI-05.8 - Personal Data (PD) Formats
+ PRI-07.5 - Justification To Reject Disclosure Requests
+ PRI-12.1 - Enabling Data Subjects To Update Personal Data (PD)
+ VPM-05.6 - Pre-Deployment Patch Testing
+ VPM-05.7 - Out-of-Cycle Patching
+
+Renamed controls:
+ MON-01.8 - Security Event Monitoring
+ IRO-10.2 - Cyber Incident Reporting for Sensitive / Regulated  Data
+ PRI-01.7 - Limiting Personal Data (PD) Disclosures
+ PRI-03.2 - Just-In-Time Notice & Updated Consent
+ PRI-03.3 - Prohibition of Selling, Processing and/or Sharing Personal Data (PD)
+ PRI-04.1 - Authority To Collect, Process, Store & Share Personal Data (PD)
+ PRI-04.4 - Acquired Personal Data (PD)
+ PRI-04.5 - Validate Collected Personal Data (PD)
+ PRI-04.6 - Re-Validate Collected Personal Data (PD)
+ PRI-05 - Personal Data (PD) Retention & Disposal
+ PRI-05.1 - Internal Use of Personal Data (PD) For Testing, Training and Research
+ PRI-05.4 - Usage Restrictions of Personal Data (PD)
+ PRI-05.6 - Personal Data (PD) Inventory Automation Support
+ PRI-06 - Data Subject Empowerment
+ PRI-06.7 - Personal Data (PD) Exports
+ PRI-07.2 - Joint Processing of Personal Data (PD)
+ PRI-07.4 - Reject Unauthenticated or Untrustworthy Disclosure Requests
+ PRI-14 - Documenting Data Processing Activities
+ SAT-03.3 - Sensitive / Regulated Data Storage, Handling & Processing
+
+Wordsmithed controls:
+ GOV-08 - Defining Business Context & Mission
+ GOV-16 - Materiality Determination
+ CRY-07 - Wireless Access Authentication & Encryption 
+ DCH-18.1 - Minimize Sensitive / Regulated Data
+ NET-15.1 - Authentication & Encryption
+ PRI-01 - Data Privacy Program
+ PRI-01.4 - Data Protection Officer (DPO)
+ PRI-01.6 - Security of Personal Data (PD)
+ PRI-02 - Data Privacy Notice
+ PRI-02.1 - Purpose Specification
+ PRI-02.2 - Automated Data Management Processes
+ PRI-02.3 - Computer Matching Agreements (CMA) 
+ PRI-03 - Choice & Consent
+ PRI-03.1 - Tailored Consent
+ PRI-03.2 - Just-In-Time Notice & Updated Consent
+ PRI-03.3 - Prohibition of Selling, Processing and/or Sharing Personal Data (PD)
+ PRI-03.4 - Revoke Consent
+ PRI-03.5 - Product or Service Delivery Restrictions
+ PRI-04 - Restrict Collection To Identified Purpose
+ PRI-04.1 - Authority To Collect, Process, Store & Share Personal Data (PD)
+ PRI-04.3 - Identifiable Image Collection
+ PRI-05.2 - Personal Data (PD) Accuracy & Integrity
+ PRI-05.4 - Usage Restrictions of Personal Data (PD)
+ PRI-05.5 - Inventory of Personal Data (PD)
+ PRI-06 - Data Subject Empowerment
+ PRI-06.3 - Appeal Adverse Decision
+ PRI-06.4 - User Feedback Management
+ PRI-06.5 - Right to Erasure
+ PRI-06.6 - Data Portability
+ PRI-06.7 - Personal Data (PD) Exports
+ PRI-07.4 - Reject Unauthenticated or Untrustworthy Disclosure Requests
+ PRI-09 - Personal Data (PD) Lineage
+ PRI-14 - Documenting Data Processing Activities
+ PRI-14.1 - Accounting of Disclosures
+ PRI-17 - Data Subject Communications
+ OPS-07 - Shadow Information Technology Detection
+ SAT-03.3 - Sensitive / Regulated Data Storage, Handling & Processing
+
+Updating mappings:
+ ISO 27002:2022
+	o GOV-09 (corrected typo)
+ NIST 800-171A
+	o CFG-02
+	o MON-08
