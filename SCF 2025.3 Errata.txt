@@ -1,3 +1,5 @@
+Version 2025.3.1 makes minor edits for CMMC L1 to reflect the numbering format change.
+
 Version 2025.3 represents a major update, based on number of new and changed controls in the Secure Controls Framework (SCF). There are many new controls in SCF 2025.2 and the majority of the new controls are focused on the governance of Artificial Intelligence (AI), but are sourced from SCF Community Derived Content, a volunteer initiative to address existing risks that organizations face, but there is a lack of a law, regulation or industry-recognized standard that supports a certain action. The SCF took the lead on organizing Subject Matter Experts (SMEs) to develop, compile and edit recommendations from the industry.
 
 You can download the new version of the SCF and errata from:
