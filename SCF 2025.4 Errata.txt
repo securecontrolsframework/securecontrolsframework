@@ -1,0 +1,143 @@
+Version 2025.4 represents a minor update, based on number of new and changed controls in the Secure Controls Framework (SCF). You can download the new version of the SCF and errata from:
+	SCF https://securecontrolsframework.com/scf-download/ 
+	Errata https://github.com/securecontrolsframework/securecontrolsframework/blob/main/SCF%202025.4%20Errata.txt 
+
+The Assessment Objectives (AOs) tab was enhanced to identify applicability for People, Process, Technology, Data or Facility (PPTDF) at the AO level. This helps organizations and service providers better understand the administrative, technical or physical nature of the requirements that need to be demonstrated for an AO to be met. 
+
+New laws, regulations and frameworks:
+	APEC Privacy Framework 2015
+	IMO Maritime Cyber Risk Management
+	India SEBI CSCRF
+	ISO 27701:2025
+	ISO 29100:2024
+	OECD Privacy Principles
+	Shared Assessments SIG 2025
+	HHS 45 CFR 155.260
+	GovRAMP (formerly StateRAMP)
+	CCPA 2025
+	NV NOGE Reg 5
+	VA CDPA 2025
+
+Removed laws, regulations and frameworks:
+	ISO 27001:2013
+	ISO 27002:2013
+	ISO 29100:2011
+	NIST CSF 1.1
+	PCI DSS 3.2
+	Shared Assessments SIG 2023
+
+New Controls:
+	CPL-01.6 - Assessment Team Subject Matter Expertise
+	CPL-12 - Statement of Applicability (SOA)
+	PRI-01.11 - Reasonable Data Privacy Practices
+	PRI-02.8 - Purpose Compatibility
+	PRI-02.9 - Privacy Notice Formatting
+	PRI-02.10 - Symmetry In Choice
+	PRI-02.11 - Choice Architecture
+	PRI-02.12 - Choice Architecture Testing
+	PRI-02.13 - Notice of Right To Limit
+	PRI-02.14 - Alternative Means To Deliver Privacy Notice
+	PRI-03.12 - Data Subject Opt-In Consent
+	PRI-03.13 - Parent or Guardian Opt-In Consent For Minors
+	PRI-06.8 - Data Subject Authentication
+	PRI-17.3 - Data Subject Communications Documentation
+	PRI-17.4 - Data Subject Communications Metrics
+	PRI-17.5 - Data Subject Communications Disclosure
+	PRI-19 - Automated Decision-Making Technology (ADMT) For Data Subject Actions
+	PRI-19.1 - Automated Decision-Making Technology (ADMT) Use Notification
+	PRI-19.2 - Automated Decision-Making Technology (ADMT) Opt-Out Consent
+	PRI-19.3 - Automated Decision-Making Technology (ADMT) Transparency
+	PRI-20 - Data Brokers
+	PRI-21 - Notice of Right To Opt-Out
+	PRI-21.1 - Opt-Out Links
+	PRI-21.2 - Alternative Out-Out Link
+	RSK-04.3 - Instances Requiring A Risk Assessment
+	RSK-04.4 - Risk Assessment Stakeholder Involvement
+	RSK-06.3 - Risk Treatment Options
+	RSK-06.4 - Risk Treatment Plan
+	RSK-13 - Executive Leadership Approval For Managing Material Risk
+	RSK-13.1 - Documented Alternatives
+	RSK-13.2 - Documented Justification For Material Risk Management Decisions
+
+Renamed Controls:
+	PRI-10.1 - Data Quality Automation
+	PRI-12 - Updating Personal Data (PD) Process
+
+Wordsmithed Controls:
+	DCH-01.2
+	MNT-10
+	PRI-01.4
+	PRI-01.8
+	PRI-01.9
+	PRI-02
+	PRI-02.1
+	PRI-02.2
+	PRI-03
+	PRI-03.1
+	PRI-03.2
+	PRI-03.4
+	PRI-03.9
+	PRI-03.10
+	PRI-04.1
+	PRI-05.4
+	PRI-05.5
+	PRI-06
+	PRI-06.2
+	PRI-06.4
+	PRI-09
+	PRI-12
+	PRI-14
+
+
+Updated
+	DORA
+o	SEA-02
+o	SEA-03
+
+	CMMC Level 2
+o	CFG-02
+o	CFG-02.9
+o	MON-01
+o	MON-01.16
+o	MON-11.3
+o	MON-16
+o	CRY-01.1
+o	CRY-05
+o	DCH-01.2
+o	HRS-01.1
+o	HRS-04.1
+o	HRS-04.2
+o	IAC-06
+o	IRO-03
+o	MNT-04.1
+o	MNT-05.4
+o	SAT-03.6
+o	THR-03
+o	VPM-04
+
+	NIS2
+o	SEA-02
+o	SEA-03
+
+
+	NIST 800-171 R2
+o	CLD-01
+o	CLD-02
+o	CFG-02.9
+o	MON-01
+o	MON-01.16
+o	MON-11.3
+o	MON-16
+o	CRY-01.1
+o	CRY-05
+o	DCH-01.2
+o	HRS-01.1
+o	HRS-04.1
+o	HRS-04.2
+o	IAC-06
+o	IRO-03
+o	MNT-04.1
+o	MNT-05.4
+o	SAT-03.6
+o	THR-03
+o	VPM-04 
