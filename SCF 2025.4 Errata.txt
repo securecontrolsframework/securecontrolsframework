@@ -1,7 +1,7 @@
 Version 2025.4 represents a minor update, based on number of new and changed controls in the Secure Controls Framework (SCF). You can download the new version of the SCF and errata from:
 	SCF https://securecontrolsframework.com/scf-download/ 
 	Errata https://github.com/securecontrolsframework/securecontrolsframework/blob/main/SCF%202025.4%20Errata.txt 
-
+tab
 The Assessment Objectives (AOs) tab was enhanced to identify applicability for People, Process, Technology, Data or Facility (PPTDF) at the AO level. This helps organizations and service providers better understand the administrative, technical or physical nature of the requirements that need to be demonstrated for an AO to be met. 
 
 New laws, regulations and frameworks:
