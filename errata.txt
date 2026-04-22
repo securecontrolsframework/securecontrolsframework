@@ -1,3 +1,6 @@
+Version 2026.1.1 corrects a formatting error, where trailing zeros were missing for the following controls in ISO 27002:2022
+	ISO 27002:2022 references: 5.10, 5.20, 5.30, 7.10, 8.10, 8.20 and 8.30.
+
 Version 2026.1 represents a moderate update, based on:
 	New and updated Set Theory Relationship Mapping (STRM) for multiple laws, regulations and frameworks. 
 	Updated maturity model criteria; 
@@ -11,7 +14,7 @@ By the end of 2026 Q2, the plan is for all laws, regulations and frameworks to h
 	APAC: will be complete in 2026 Q2
 	AMERICAS: will be complete in 2026 Q2
 
-You can download the new version of the SCF and errata from: https://securecontrolsframework.com/scf-download/ 
+You can download the new version of the SCF and errata from: https://securecontrolsframework.com/free-scf-content/scf-download/
 
 Errata https://github.com/securecontrolsframework/securecontrolsframework/blob/main/SCF%202026.1%20Errata.txt 
 
