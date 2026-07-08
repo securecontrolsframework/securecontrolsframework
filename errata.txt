@@ -1,243 +1,123 @@
-Version 2026.1.1 corrects a formatting error, where trailing zeros were missing for the following controls in ISO 27002:2022
-	ISO 27002:2022 references: 5.10, 5.20, 5.30, 7.10, 8.10, 8.20 and 8.30.
+The SCF Council is pleased to announce the release of the latest version of the Secure Controls Framework (SCF). There are two big announcements that are worth noting in this release. The first is the addition of the Quantum Security (QTS) domain to address the threat of Post-Quantum Cryptography (PQC). The second is about the Set Theory Relationship Mapping (STRM) project, where all laws, regulations and frameworks now have published STRM (with the exception of NIST 800-53 Rev4 [deprecated] and SIG [Santa Fe Group provides their mappings to the SCF]). The transparency and auditability associated with STRM makes the SCF unrivaled as a control framework for organizations to demonstrate secure, compliant and resilient capabilities.
 
-Version 2026.1 represents a moderate update, based on:
-	New and updated Set Theory Relationship Mapping (STRM) for multiple laws, regulations and frameworks. 
-	Updated maturity model criteria; 
-	Updated “possible solutions & considerations” criteria; and
-	Proposed compensating controls (see the “SCF Overview & Practitioner Guidebook” for guidance on compensating controls - https://securecontrolsframework.com/content/SCF-Recommended-Practices.pdf)
+The SCF currently maps to 252 discrete laws, regulations and frameworks - you can see that complete list on the Focal Documents tab within the SCF, which contains links to the STRM download and the source URL.
 
-By the end of 2026 Q2, the plan is for all laws, regulations and frameworks to have published STRM. You can download current STRM in PDF format at: https://securecontrolsframework.com/start-here/set-theory-relationship-mapping-strm/ 
-	GERNERAL: complete with the exception of NIST 800-53 R4 (deprecated) and SIG (OEM provided mapping)
-	USA: complete
-	EMEA: will be complete in 2026 Q2
-	APAC: will be complete in 2026 Q2
-	AMERICAS: will be complete in 2026 Q2
+Version 2026.2 represents a moderate update, based on:
+ New Quantum Security (QTS) domain;
+ Updated Set Theory Relationship Mapping (STRM) for multiple laws, regulations and frameworks;
+ Updated maturity model criteria;
+ Updated “possible solutions & considerations” criteria; and
+ Updated compensating controls (see the “SCF Overview & Practitioner Guidebook” for guidance on compensating controls - https://content.securecontrolsframework.com/pdf/scf-recommended-practices.pdf)
 
-You can download the new version of the SCF and errata from: https://securecontrolsframework.com/free-scf-content/scf-download/
-
-Errata https://github.com/securecontrolsframework/securecontrolsframework/blob/main/SCF%202026.1%20Errata.txt 
-
-Authoritative Sources (added)
-	Cyber Resilience Capability Maturity Model (CR-CMM) (2026)
-	Government Risk and Authorization Management Program (GovRAMP)
-	IEC 62443-2-1 (2024)
-	IEC 62443-3-3 (2013)
-	IEC 62443-4-1 (2018)
-	ISO 27018 (2025)
-	ISO 31000 (2018)
-	OWASP Top 10 (2025)
-	SWIFT Customer Security Controls Framework (2025)
-	TISAX ISA (6.0.3)
-	Shared Assessments Standard Information Gathering (SIG) Questionnaire 2025
-	Criminal Justice Information Services (CJIS) Security Policy (v6.0)
-	Texas DIR Security Control Standards Catalog (v2.2)
-
-Authoritative Sources (removed)
-	ISO 27018 (2014)
-	ISO 31000 (2009)
-	NIST SP 800-63B
-	OWASP Top 10 (2021)
-	SWIFT Customer Security Controls Framework (2023)
-	Shared Assessments Standard Information Gathering (SIG) Questionnaire 2023
-	TISAX ISA (6.0)
-	Criminal Justice Information Services (CJIS) Security Policy (v5.9.3)
-	Department of Homeland Security (DHS) Zero Trust Capability Framework (ZTCF)
-	Federal Risk and Authorization Management Program R4 (FedRAMP R4)
-	Federal Financial Institutions Examination Council (FFIEC) 
-	Health Industry Cybersecurity Practices (HICP) - Small Practice
-	Health Industry Cybersecurity Practices (HICP) - Medium Practice
-	Health Industry Cybersecurity Practices (HICP) - Large Practice
-	International Traffic in Arms Regulation (ITAR)
-	National Science & Technology Council NSPM-33
-	Social Security Administration Electronic Information Exchange Security Requirements
-	Texas DIR Security Control Standards Catalog (v2.0)
-	Netherlands - Personal Data Protection Act (PDPA)
-	Sweden - Personal Data Act (PDA)
-	Argentina - Protection of Personal Law No. 25,326
-	Costa Rica - Protection of the Person in the Processing of His Personal Data
-	Peru - Personal Data Protection Law
-	Uruguay - Law No. 18,331 - Protection of Personal Data and Action "Habeas Data"
+You can download the new version of the SCF (XLSX, JSON and other content) from: https://securecontrolsframework.com/free-content/scf-download
 
 New Controls:
-	AST-01.5 - Authorized To Connect
-	BCD-01.7 - Business Continuity & Disaster Recovery (BC/DR) Plans
-	CHG-08 - Dual Approval For High-Impact Environments
-	CPL-01.7 - Designated Certifying Official
-	CPL-01.8 - Conformity Attestations
-	CPL-13 - Work Products
-	CPL-13.1 - Defensible Evidence of Due Diligence
-	CPL-13.2 - Defensible Evidence of Due Care
-	MON-19 - Write Once Read Many (WORM) Event Log Generation
-	IAC-16.5 - Manual Override
-	IAC-30 - Mutual Authentication (MA)
-	IRO-08.1 - Licensed Forensic Investigators
-	IRO-09.3 - Incident Tracking Repository
-	IRO-09.4 - Incident Pattern Analysis
-	TPM-12 - Foreign Ownership, Control or Influence (FOCI) 
-	TPM-12.1 - Ownership Change Monitoring
-	TPM-12.2 - Ownership Change Provisions
+ GOV-01.4 - Secure Practices Alignment Justification
+ GOV-10.1 - Data Catalog
+ GOV-19.3 - Security, Compliance & Resilience Outsourcing Limitations
+ GOV-21 - High Value Assets (HVA)
+ AAT-01.5 - Artificial Intelligence and Autonomous Technologies (AAT) & AI Agent Categorization
+ AAT-12.5 - Training Data Source & Integrity
+ AAT-12.6 - Prohibit Training
+ AAT-29.24 - Resource Limiting
+ AAT-33 - Release Owner Gate (ROG) For AI-Augmented Content
+ AST-05.2 - Technology Assets, Applications, Services and/or Data (TAASD) Storage
+ CPL-03.8 - Continuous Control Monitoring (CCM)
+ CFG-09 - Production Software Repository
+ CFG-09.1 - Third-Party Libraries
+ CFG-09.2 - Software Repository Protections
+ CFG-09.3 - Software Development Repository
+ IAC-01.4 - Identity Providers (IdP) & Authorization Servers
+ IAC-15.10 - Account Separation Between Infrastructure Environments
+ NET-06.8 - Network Device Plane Segmentation
+ PRI-01.12 - Privacy-Aware Design
+ QTS-01 - Quantum Risk Governance
+ QTS-01.1 - Quantum Security Policy
+ QTS-01.2 - Data Shelf-Life Classification for Post-Quantum Cryptography (PQC) Prioritization
+ QTS-01.3 - Long-Lived Data Identification
+ QTS-01.4 - Harvest Now, Decrypt Later (HNDL) Mitigation
+ QTS-02 - Cryptographic Agility Risk Assessment (CARA)
+ QTS-02.1 - Cryptographic Exception Register
+ QTS-02.2 - Compensating Controls for Quantum-Vulnerable Systems
+ QTS-02.3 - Crypto Agility Maturity Assessment
+ QTS-03 - Post-Quantum Cryptography Agility Plan (PSCAP)
+ QTS-03.1 - Post-Quantum Cryptography (PQC) Transition Planning & Hybrid Mode Support
+ QTS-03.2 - Post-Quantum Cryptography (PQC) Migration Progress Oversight
+ QTS-03.3 - Post-Quantum Cryptography (PQC) Supply Chain Visibility
+ QTS-03.4 - Post-Quantum Cryptography (PQC) Supply Chain Flow-Down Requirements
+ QTS-04 - Post-Quantum Cryptography (PQC) Discovery & Visibility
+ QTS-04.1 - Post-Quantum Cryptography (PQC) Asset Inventory
+ QTS-04.2 - Cryptographic Bill of Materials (CBOM)
+ QTS-04.3 - Post-Quantum Cryptography Exposure
+ QTS-05 - Quantum Security Awareness
+ QTS-05.1 - Quantum Threat Intelligence Monitoring
+ QTS-05.2 - Collaboration & Information Sharing
+ QTS-06 - Crypto-Agility Architecture
+ QTS-06.1 - Entropy Source & Random Bit Generation
+ QTS-06.2 - Stateful Hash-Based Signatures for Firmware & Code Signing
+ QTS-06.3 - Approved Post-Quantum Cryptography (PQC) Algorithm Use
+ QTS-06.4 - Post-Quantum Cryptography (PQC) Validation Requirements
+ QTS-06.5 - Deprecated Cryptographic Algorithms
+ QTS-06.6 - Post-Quantum Cryptography (PQC) Key Management
+ QTS-06.7 - Quantum-Safe Public Key Infrastructure (PKI) Transition
+ QTS-06.8 - Algorithm Negotiation Integrity
+ QTS-06.9 - Hybrid / Composite Cryptography
+ QTS-06.10 - Cryptographic Application Programming Interface (API) Abstraction
+ QTS-07 - Cryptographic Incident Response (Emergency Algorithm Transition)
+ QTS-08 - PQC Implementation Validation & Interoperability Testing
+ RSK-03.2 - Risk Owner
+ SEA-01.4 - Secure Architecture Principles
+ SEA-01.5 - Security-Aware Design
+ SEA-08.2 - Non-Persistent Information
+ SAT-04.1 - Training Feedback
+ TDA-06.7 - Programming Language Selection
+ TDA-13.1 - Developer Knowledge & Skills Register
+ TDA-13.2 - Developer Training
+ TDA-19.1 - Designated Roles To View Error Messages
+ THR-01.1 - Dynamic Threat Awareness
+ THR-01.2 - Predictive Cyber Analytics
+ VPM-02.1 - Known Exploited Vulnerabilities (KEV) Mitigations
+
 
 Renamed Controls:
-	GOV-01 - Security, Compliance & Resilience Program (SCRP)
-	GOV-02 - Publishing Security, Compliance & Resilience Documentation
-	GOV-03 - Periodic Review & Update of Security, Compliance & Resilience Program
-	GOV-04 - Assigned Security, Compliance & Resilience Responsibilities
-	GOV-14 - Business As Usual (BAU) Security, Compliance & Resilience Practices
-	GOV-15 - Operationalizing Security, Compliance & Resilience Capabilities
-	GOV-17 - Security, Compliance & Resilience Status Reporting
-	BCD-08.1 - Separation from Primary Storage Site
-	BCD-08.2 - Primary Storage Site Accessibility
-	BCD-09.1 - Separation from Primary Processing Site
-	BCD-09.2 - Alternate Processing Site Accessibility
-	CHG-02.3 - Security, Compliance & Resilience Representative for Asset Lifecycle Changes
-	CPL-02 - Security, Compliance & Resilience Controls Oversight
-	CPL-03 - Security, Compliance & Resilience Assessments
-	CPL-03.2 - Functional Review Of Security, Compliance & Resilience Controls
-	MON-03.1 - Sensitive Event Log Information
-	MON-03.6 - Centralized Management of Event Log Content
-	CRY-02 - Automated Authentication Through Cryptographic Modules
-	HRS-10 - Third-Party Personnel
-	HRS-13.2 - Identify Vital Security, Compliance & Resilience Staff
-	HRS-13.3 - Establish Redundancy for Vital Security, Compliance & Resilience Staff
-	IAO-02.3 - Third-Party Assessment Reciprocity
-	IAO-03 - Applied Security, Compliance and Resilience Controls Documentation
-	IAO-05 - Capabilities Deficiency Tracking
-	IAO-05.1 - Deficiency Tracking Automation
-	PRI-08 - Personal Data (PD) Control Testing, Training & Monitoring
-	PRM-01 - Security, Compliance & Resilience Protection Portfolio Management
-	PRM-02 - Security, Compliance & Resilience Resource Management
-	PRM-04 - Security, Compliance & Resilience In Project Management
-	PRM-05 - Security, Compliance & Resilience Requirements Definition
-	RSK-06.4 - Risk Treatment Plan (RTP)
-	SEA-01.1 - Centralized Management of Security, Compliance & Resilience Controls
-	SAT-01 - Security, Compliance & Resilience-Minded Workforce
-	SAT-02 - Security, Compliance & Resilience Awareness Training
-	SAT-03 - Role-Based Security, Compliance & Resilience Training
-	SAT-03.4 - Vendor Security, Compliance & Resilience Training
-	SAT-03.7 - Continuing Professional Education (CPE) - Security, Compliance & Resilience Personnel
-	SAT-04 - Security, Compliance & Resilience Training Records
-	SAT-05 - Security, Compliance & Resilience Knowledge Sharing
-	TDA-02.7 - Security, Compliance & Resilience Representatives For Product Changes
-	TDA-06.1 - Criticality Analysis During Development
-	TDA-09 - Security, Compliance & Resilience Testing Throughout Development
+ CPL-03 - Control Conformity Monitoring
+ END-08.1 - Phishing & Spam Protection Centralized Management
+ NET-06 - Network Segmentation (macrosegmentation)
+ PRI-03 - Data Subject Consent
+ PRI-04 - Restrict Collection, Processing & Sharing To Identified Purpose
+ PRI-05.3 - Data Anonymization
+ PRI-06.4 - Data Subject Feedback Management
+ PRI-07.4 - Disclosure Request Rejections
+ PRI-21.2 - Alternative Opt-Out Link
+ SAT-03.1 - Practical Security Training Exercises
+
 
 Wordsmithed Controls:
-	GOV-01 - Security, Compliance & Resilience Program (SCRP)
-	GOV-01.1 - Steering Committee & Program Oversight
-	GOV-01.2 - Status Reporting To Governing Body
-	GOV-01.3 - Commitment To Continual Improvements
-	GOV-02 - Publishing Security, Compliance & Resilience Documentation
-	GOV-03 - Periodic Review & Update of Security, Compliance & Resilience Program
-	GOV-04 - Assigned Security, Compliance & Resilience Responsibilities
-	GOV-04.1 - Stakeholder Accountability Structure
-	GOV-04.2 - Authoritative Chain of Command
-	GOV-05 - Measures of Performance
-	GOV-05.1 - Key Performance Indicators (KPIs)
-	GOV-05.2 - Key Risk Indicators (KRIs)
-	GOV-07 - Contacts With Groups & Associations
-	GOV-09 - Define Control Objectives
-	GOV-14 - Business As Usual (BAU) Security, Compliance & Resilience Practices
-	GOV-15 - Operationalizing Security, Compliance & Resilience Capabilities
-	GOV-15.1 - Select Controls
-	GOV-15.2 - Implement Controls
-	GOV-15.3 - Assess Controls
-	GOV-15.5 - Monitor Controls
-	GOV-17 - Security, Compliance & Resilience Status Reporting
-	GOV-18 - Quality Management System (QMS)
-	GOV-19 - Assurance
-	AAT-02.2 - AI & Autonomous Technologies Internal Controls
-	AAT-02.3 - Adequate Protections For AI & Autonomous Technologies
-	AAT-16.2 - Measuring AI & Autonomous Technologies Effectiveness
-	AAT-17.5 - Fine Tuning Risk Mitigation
-	AAT-29.12 - Prompt Injection Defense
-	AST-01.1  - Asset-Service Dependencies
-	AST-04.1 - Asset Scope Classification
-	BCD-08.2 - Primary Storage Site Accessibility
-	BCD-09.2 - Alternate Processing Site Accessibility
-	BCD-09.5 - Inability to Return to Primary Site
-	CHG-06 - Control Functionality Verification
-	CHG-06.1 - Report Verification Results
-	CLD-06.1 - Customer Responsibility Matrix (CRM)
-	CLD-13 - Hosted Assets, Applications & Services
-	CLD-14 - Prohibition On Unverified Hosted Assets, Applications & Services
-	CPL-01.2 - Compliance Scope
-	CPL-01.3 - Ability To Demonstrate Conformity
-	CPL-01.4 - Conformity Assessment
-	CPL-02 - Security, Compliance & Resilience Controls Oversight
-	CPL-02.2 - Periodic Audits
-	CPL-03 - Security, Compliance & Resilience Assessments
-	CPL-03.1 - Independent Assessors
-	CPL-03.2 - Functional Review Of Security, Compliance & Resilience Controls
-	MON-01.5 - Wireless Network Monitoring
-	MON-01.16 - Analyze and Prioritize Monitoring Requirements
-	MON-03.6 - Centralized Management of Event Log Content
-	DCH-13.1 - Limits of Authorized Use
-	DCH-24.1 - Automated Tools to Support Information Location
-	EMB-02 - Internet of Things (IOT)
-	EMB-03 - Operational Technology (OT)
-	HRS-05 - Terms of Employment
-	HRS-05.7 - Policy Familiarization & Acknowledgement
-	HRS-10 - Third-Party Personnel
-	HRS-13 - Identify Critical Skills & Gaps
-	HRS-13.2 - Identify Vital Security, Compliance & Resilience Staff
-	HRS-13.3 - Establish Redundancy for Vital Security, Compliance & Resilience Staff
-	HRS-13.4 - Perform Succession Planning
-	IAO-01 - Information Assurance (IA) Operations
-	IAO-02 - Assessments
-	IAO-02.1 - Assessor Independence
-	IAO-03 - Applied Security, Compliance and Resilience Controls Documentation
-	IAO-05 - Capabilities Deficiency Tracking
-	IAO-05.1 - Deficiency Tracking Automation
-	IAO-06 - Technical Verification
-	MNT-10 - Maintenance Validation
-	NET-05 - Interconnection Security Agreements (ISAs)
-	NET-08.2 - Wireless Intrusion Detection / Prevention Systems (WIDS / WIPS) Deployment
-	PRI-03.6 - Authorized Agent
-	PRI-08 - Personal Data (PD) Control Testing, Training & Monitoring
-	PRM-01 - Security, Compliance & Resilience Protection Portfolio Management
-	PRM-01.1 - Strategic Plan & Objectives
-	PRM-02 - Security, Compliance & Resilience Resource Management
-	PRM-04 - Security, Compliance & Resilience In Project Management
-	PRM-06 - Business Process Definition
-	PRM-08 - Manage Organizational Knowledge
-	RSK-06.1 - Risk Response
-	RSK-08 - Business Impact Analysis (BIA)
-	RSK-11 - Risk Monitoring
-	SEA-01 - Secure Engineering Principles
-	SEA-01.1 - Centralized Management of Security, Compliance & Resilience Controls
-	SEA-01.3 - Resilience Capabilities
-	SEA-02 - Alignment With Enterprise Architecture
-	SEA-18 - System Use Notification (Logon Banner)
-	SEA-18.1 - Standardized Microsoft Windows Banner
-	SEA-18.2 - Truncated Banner
-	SAT-02 - Security, Compliance & Resilience Awareness Training
-	SAT-03 - Role-Based Security, Compliance & Resilience Training
-	SAT-03.1 - Practical Exercises
-	SAT-03.4 - Vendor Security, Compliance & Resilience Training
-	SAT-03.6 - Cyber Threat Environment
-	SAT-03.7 - Continuing Professional Education (CPE) - Security, Compliance & Resilience Personnel
-	SAT-04 - Security, Compliance & Resilience Training Records
-	SAT-05 - Security, Compliance & Resilience Knowledge Sharing
-	TDA-01.4 - DevSecOps
-	TDA-02.7 - Security, Compliance & Resilience Representatives For Product Changes
-	TDA-03.1 - Supplier Diversity
-	TDA-04.1 - Functional Properties
-	TDA-05 - Developer Architecture & Design
-	TDA-06.5 - Software Design Review
-	TDA-09 - Security, Compliance & Resilience Testing Throughout Development
-	TDA-09.1 - Continuous Monitoring Plan
-	TDA-10.1 - Test Data Integrity
-	TPM-05 - Third-Party Contract Requirements
-	TPM-05.2 - Contract Flow-Down Requirements
-	TPM-05.4 - Responsible, Accountable, Supportive, Consulted & Informed (RASCI) Matrix
-	TPM-05.5 - Third-Party Scope Review
-	TPM-05.6 - First-Party Declaration (1PD)
-	TPM-05.7 - Break Clauses
-	TPM-05.8 - Third-Party Attestation (3PA)
-	TPM-08 - Review of Third-Party Services
-	WEB-04 - Client-Facing Web Services
+ GOV-15 - Operationalizing Security, Compliance & Resilience Capabilities
+ GOV-15.1 - Select Controls
+ GOV-15.2 - Implement Controls
+ GOV-15.3 - Assess Controls
+ AST-05 - Security of Assets & Media
+ CPL-03 - Control Conformity Monitoring
+ END-08.1 - Phishing & Spam Protection Centralized Management
+ IAC-15 - Account Management
+ IAO-02.2 - Specialized Assessments
+ NET-06 - Network Segmentation (macrosegmentation)
+ PRI-03 - Data Subject Consent
+ PRI-04 - Restrict Collection, Processing & Sharing To Identified Purpose
+ PRI-06.4 - Data Subject Feedback Management
+ PRI-07.4 - Disclosure Request Rejections
+ PRI-07.5 - Justification To Reject Disclosure Requests
+ PRI-21.2 - Alternative Opt-Out Link
+ PRM-04 - Security, Compliance & Resilience In Project Management
+ PRM-05 - Security, Compliance & Resilience Requirements Definition
+ RSK-01 - Risk Management Program
+ RSK-06.3 - Risk Treatment Options
+ WEB-08 - Web Application Framework
+
 
 Updated Mapping:
--	NIST 800-171A
-o	MON-01.16
+-	NIST 800-53 R5
+o	SAT-03.2
+o	SAT-03.6
+
