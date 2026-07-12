@@ -1,0 +1,1252 @@
+{
+  "description": "SHA-256 manifest for the STRM PDFs in this folder, mirrored byte-identical from the official SCF CDN (content.securecontrolsframework.com/strm/) as listed in the workbook's Focal Documents tab.",
+  "release": "2026.2",
+  "retrieved": "2026-07-12T06:43:18+00:00",
+  "files": {
+    "scf-strm-americas-arg-ppd-2018.pdf": {
+      "sha256": "9f8443be2e7ec3f88da4fc70baa119f091902f4074a0811a348f16605c38876b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-arg-ppd-2018.pdf",
+      "size_bytes": 405683
+    },
+    "scf-strm-americas-bhs-dpa-2003.pdf": {
+      "sha256": "602f9cf1beb0a29a2d598fe326c7cd6793e84c91f300043b1970056abfa94aef",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-bhs-dpa-2003.pdf",
+      "size_bytes": 1619283
+    },
+    "scf-strm-americas-bmu-mba-coc-2020.pdf": {
+      "sha256": "13d2fcb99c33e09320d4e8186f410cacdb1303d0fbf956a397e2ecb3d4284892",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-bmu-mba-coc-2020.pdf",
+      "size_bytes": 487961
+    },
+    "scf-strm-americas-bra-lgpd-2018.pdf": {
+      "sha256": "2420664f4c2dc02db8ec5a764b22f6e1bf5057e7aec9af84215cee3812c0c105",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-bra-lgpd-2018.pdf",
+      "size_bytes": 657544
+    },
+    "scf-strm-americas-can-itsp-10-171-2025.pdf": {
+      "sha256": "c348e15c985fa81fb5abe2f74a18b093400a2ba6c181260d0e8192882df47856",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-can-itsp-10-171-2025.pdf",
+      "size_bytes": 3362013
+    },
+    "scf-strm-americas-can-osfi-b13-2022.pdf": {
+      "sha256": "e99191198171d4d517d5afcab443b20bca3d1cba66f6f72783c3e2a8c3e57ed4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-can-osfi-b13-2022.pdf",
+      "size_bytes": 923326
+    },
+    "scf-strm-americas-can-osfi-self-assessment.pdf": {
+      "sha256": "8b75e42dc803f268ef31daec39ff065eeaecbe44d605ee278059e9d3ab825d57",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-can-osfi-self-assessment.pdf",
+      "size_bytes": 649910
+    },
+    "scf-strm-americas-can-pipeda-2000.pdf": {
+      "sha256": "78cbb992583d7205779b9314d8f4407f0b50bb4aac13cd514ae387d0c0cf25ed",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-can-pipeda-2000.pdf",
+      "size_bytes": 322090
+    },
+    "scf-strm-americas-chl-act-19628-1999.pdf": {
+      "sha256": "2a69bd6f480d01bd4b32408b648f3f27f24aeb0a3e2f6e55735bbc6c8cce6186",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-chl-act-19628-1999.pdf",
+      "size_bytes": 203533
+    },
+    "scf-strm-americas-col-law-1581-2012.pdf": {
+      "sha256": "af88153fad13e8b7d52c42c7251e5ea25963c99adceccfa48978b4164681ad77",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-col-law-1581-2012.pdf",
+      "size_bytes": 350981
+    },
+    "scf-strm-americas-mex-fdpa-2010.pdf": {
+      "sha256": "7e2ac7472e8717572a8668242999b8130c1a300cadf388284cb8d667b2e66039",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-americas-mex-fdpa-2010.pdf",
+      "size_bytes": 435038
+    },
+    "scf-strm-apac-aus-cop-sitc-2020.pdf": {
+      "sha256": "ed91a23c5321cb92270a57d8478374960799f106075441f0e59886b00b7277da",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-cop-sitc-2020.pdf",
+      "size_bytes": 182458
+    },
+    "scf-strm-apac-aus-essential-8-2024.pdf": {
+      "sha256": "aea3c3472c4d990bba34271c4eb5b0fb38c091e3f2740f0432ac2d7f5dde91a4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-essential-8-2024.pdf",
+      "size_bytes": 938162
+    },
+    "scf-strm-apac-aus-ism-2026-march.pdf": {
+      "sha256": "9f752b71db921872a6054abaedcc3b084385ed367286df1cf543fa1bf386e869",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-ism-2026-march.pdf",
+      "size_bytes": 4866537
+    },
+    "scf-strm-apac-aus-privacy-principles-2026.pdf": {
+      "sha256": "2d05c7f78d1571ea47ad29b6cafb18fb2e726086427fe0b13286fa78d49d8359",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-privacy-principles-2026.pdf",
+      "size_bytes": 785514
+    },
+    "scf-strm-apac-aus-ps-cps-230-2023.pdf": {
+      "sha256": "cb949c53d5c196fab553590fbd4bda0fd1e60c70f3ebf00e843f0ec5e162331f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-ps-cps-230-2023.pdf",
+      "size_bytes": 546832
+    },
+    "scf-strm-apac-aus-ps-cps-234-2019.pdf": {
+      "sha256": "7791616a1ed8c6cc11440e4ada0f87b7e7555e95fcd6c5f12c5fab34280c83be",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-aus-ps-cps-234-2019.pdf",
+      "size_bytes": 203014
+    },
+    "scf-strm-apac-chn-csnip-2012.pdf": {
+      "sha256": "93bd174f6b885fea3b1f51f059dc80c235ad0bdf2340745dd09341167bd92549",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-chn-csnip-2012.pdf",
+      "size_bytes": 98904
+    },
+    "scf-strm-apac-chn-cybersecurity-law-2017.pdf": {
+      "sha256": "a6687e12ddf10a9802edfa2bb6654786d13693701bc4ad43b408a747544d439e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-chn-cybersecurity-law-2017.pdf",
+      "size_bytes": 410071
+    },
+    "scf-strm-apac-chn-data-security-law-2021.pdf": {
+      "sha256": "c39065d44d7df8704cc498e651bf6d008286e2db63a1a6958082bcae3dad782e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-chn-data-security-law-2021.pdf",
+      "size_bytes": 258636
+    },
+    "scf-strm-apac-chn-pipl-2021.pdf": {
+      "sha256": "cf051f8732b5545b44462d0e173df5fc924b65f3deb5fc4503a68e6fba41c212",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-chn-pipl-2021.pdf",
+      "size_bytes": 344058
+    },
+    "scf-strm-apac-hkg-pdo-2022.pdf": {
+      "sha256": "ac12113cd1cb222a8419a49ee416230332058dc379c06f5dbd9bc5b27c82ddc1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-hkg-pdo-2022.pdf",
+      "size_bytes": 1315312
+    },
+    "scf-strm-apac-ind-dpdpa-2023.pdf": {
+      "sha256": "f818d0a93dd94b66c6e5af4c2ec2c36ee39de86982e16fc9981616138af32e36",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-ind-dpdpa-2023.pdf",
+      "size_bytes": 932780
+    },
+    "scf-strm-apac-ind-privacy-rules-2011.pdf": {
+      "sha256": "c663557c05dc7babd91eb41ca806025f3aecb944990e759312b7cfe21480e012",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-ind-privacy-rules-2011.pdf",
+      "size_bytes": 208493
+    },
+    "scf-strm-apac-ind-sebi-2024.pdf": {
+      "sha256": "0faa93049bc39a6610b3d71512385cc0302ef058a70473c54d25ec0790ad12ba",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-ind-sebi-2024.pdf",
+      "size_bytes": 1261021
+    },
+    "scf-strm-apac-jpn-appi-2020.pdf": {
+      "sha256": "c4da82d0b01fcd1f14bda9713611a7ddf896cacd0b0a8c036c6d74c8dc5ddcd7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-jpn-appi-2020.pdf",
+      "size_bytes": 726160
+    },
+    "scf-strm-apac-jpn-ismap.pdf": {
+      "sha256": "6e11b40023b3e8292df5acbb4303f6a3622ceb74ffa33abc053961e4965d8cf1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-jpn-ismap.pdf",
+      "size_bytes": 4478215
+    },
+    "scf-strm-apac-kor-pipa-2011.pdf": {
+      "sha256": "e8ceb2cf6a259bbcd8c7c0b9879d5bff68b342b0601e795feabbd4fb69a0f27e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-kor-pipa-2011.pdf",
+      "size_bytes": 938162
+    },
+    "scf-strm-apac-mys-bnm-rmit-2025.pdf": {
+      "sha256": "026dd4ed06b517a5ea4c968e6762eb21d6144bb2f40723390ec600c2411eea60",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-mys-bnm-rmit-2025.pdf",
+      "size_bytes": 1392101
+    },
+    "scf-strm-apac-mys-pdpa-2010.pdf": {
+      "sha256": "1ff0886c60ac900de95901e82ae0686af29f6e7f1309f79e03d5c8d567037c08",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-mys-pdpa-2010.pdf",
+      "size_bytes": 2257677
+    },
+    "scf-strm-apac-nzl-hisf-microsmall-2023.pdf": {
+      "sha256": "1c1220b992538eb6f0ca9531a0e1ed0fcc8642798ff89ae5f583ab5f04ee3eb0",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-nzl-hisf-microsmall-2023.pdf",
+      "size_bytes": 140179
+    },
+    "scf-strm-apac-nzl-hisf-mlhsp-2023.pdf": {
+      "sha256": "54c0df3894d0c1831b2611c1decaf29b0243a8a69022084b030166fd639cdf41",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-nzl-hisf-mlhsp-2023.pdf",
+      "size_bytes": 838358
+    },
+    "scf-strm-apac-nzl-hisf-suppliers-2023.pdf": {
+      "sha256": "3b3e3b4ba4ffb9f4e9a078bc205c5f5a3e263b4b6598c696aa6c2240bfad1311",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-nzl-hisf-suppliers-2023.pdf",
+      "size_bytes": 423216
+    },
+    "scf-strm-apac-nzl-ism-3-9.pdf": {
+      "sha256": "3ea3e754c6ac3f741f9eb2a709d6160729f7538cb636e8bcbec2e2b2aebc4561",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-nzl-ism-3-9.pdf",
+      "size_bytes": 5437571
+    },
+    "scf-strm-apac-nzl-privacy-act-2020.pdf": {
+      "sha256": "210e994be2d26586ce04c802c094342feacee6c21ba62c8fc1a908f869fd1458",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-nzl-privacy-act-2020.pdf",
+      "size_bytes": 1184781
+    },
+    "scf-strm-apac-phl-dpa-2012.pdf": {
+      "sha256": "21d38d591ee80a06b6d341c02abaae8e08d9c823e08e3640366628e6b2e6ddb4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-phl-dpa-2012.pdf",
+      "size_bytes": 302298
+    },
+    "scf-strm-apac-sgp-cyber-hygiene-practice-2019.pdf": {
+      "sha256": "2cdb1e80d6431c1d804e0da7f8754b8c40efb51a7c39bd1fce70558561e087ff",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-sgp-cyber-hygiene-practice-2019.pdf",
+      "size_bytes": 124878
+    },
+    "scf-strm-apac-sgp-mas-trm-2021.pdf": {
+      "sha256": "e7f4922beb6d76c43ebf0e469f089d8578425cd9053e18e7e23d9532ae39cb78",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-sgp-mas-trm-2021.pdf",
+      "size_bytes": 1471142
+    },
+    "scf-strm-apac-sgp-pdpa-2012.pdf": {
+      "sha256": "d37a26101752c3be73b7cb7b6610f85b86891c71f41704c9555c953971219e3b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-sgp-pdpa-2012.pdf",
+      "size_bytes": 321817
+    },
+    "scf-strm-apac-twn-pdpa-2025.pdf": {
+      "sha256": "235dc34be0c1dbfe84aa985ffdc00d3a5ac086dd7cacb5a917ce9d63527415f7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-apac-twn-pdpa-2025.pdf",
+      "size_bytes": 301605
+    },
+    "scf-strm-emea-aut-dpa-2018.pdf": {
+      "sha256": "42bc4d71e9a71efc2cc25060b6ffd4ea216e881dc593053ccd86542139c76675",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-aut-dpa-2018.pdf",
+      "size_bytes": 1214276
+    },
+    "scf-strm-emea-bel-act-30-2018.pdf": {
+      "sha256": "9062b7a9db51ddfd39a2b62cdfd32895bd2f485f3db08543b23977d89b993332",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-bel-act-30-2018.pdf",
+      "size_bytes": 579447
+    },
+    "scf-strm-emea-che-fadp-2025.pdf": {
+      "sha256": "cf803e726e2a8a0018c4e6553354a42603a0d3736af05df7182c122eff4e3a25",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-che-fadp-2025.pdf",
+      "size_bytes": 819220
+    },
+    "scf-strm-emea-deu-bsrit-2017.pdf": {
+      "sha256": "139f05117ac2d15cbaca666722eae5fb81e5a1e48ff735c04f1fae526c80bd5f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-deu-bsrit-2017.pdf",
+      "size_bytes": 663675
+    },
+    "scf-strm-emea-deu-c5-2020.pdf": {
+      "sha256": "528d1ecab9d77db5a8a60ffe1951eb546e5d4c8e4915c7d007eaf8d16ca43c8c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-deu-c5-2020.pdf",
+      "size_bytes": 1585329
+    },
+    "scf-strm-emea-deu-fdpa-2017.pdf": {
+      "sha256": "78f1b5cd021dece80c6a0c512b211c043a7ad8c009160eaa9784e5ad6035411c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-deu-fdpa-2017.pdf",
+      "size_bytes": 1574070
+    },
+    "scf-strm-emea-esp-ccn-stic-825-2026.pdf": {
+      "sha256": "ae13e6deb4602556f721db89e980afb3cda3d7ae16b7abedf50395a1e9aedd2f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-esp-ccn-stic-825-2026.pdf",
+      "size_bytes": 1320740
+    },
+    "scf-strm-emea-esp-decree-311-2022.pdf": {
+      "sha256": "ac31d937375090ab9a27bbc67d3eb7cc4d8371cd787930d3a933d127ba801f90",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-esp-decree-311-2022.pdf",
+      "size_bytes": 467189
+    },
+    "scf-strm-emea-eu-ai-act-2024.pdf": {
+      "sha256": "f0f1aa80e5939509a6c97db228c42ae07b72c2940de3344b85b613a2bbc3a8b4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-ai-act-2024.pdf",
+      "size_bytes": 3138724
+    },
+    "scf-strm-emea-eu-cyber-resilience-act-2024.pdf": {
+      "sha256": "fafee17295a46f704d54f380013748477cac35f600bdc1ec089af9e3d360a5f4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-cyber-resilience-act-2024.pdf",
+      "size_bytes": 1555308
+    },
+    "scf-strm-emea-eu-cyber-resilience-act-annex-i-2024.pdf": {
+      "sha256": "359cd2ac38567a12a02a86b20c4e287546d804ef841658c36aefdbe85698348a",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-cyber-resilience-act-annex-i-2024.pdf",
+      "size_bytes": 192882
+    },
+    "scf-strm-emea-eu-dora-2023.pdf": {
+      "sha256": "8826108b10e800aa69eea6328523bfa96bd85783c11d216cde0632abacaf817d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-dora-2023.pdf",
+      "size_bytes": 1518017
+    },
+    "scf-strm-emea-eu-eba-ict-srm-2025.pdf": {
+      "sha256": "37657bb2019c0ca1ab1003e0752837a698587d7c979a1bad3dea0bba13e8940c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-eba-ict-srm-2025.pdf",
+      "size_bytes": 1161646
+    },
+    "scf-strm-emea-eu-gdpr-2016.pdf": {
+      "sha256": "cc76ced427ce5adfa44284b0fef91e0836a66ceaa7b52a93d408d068a3b39b1a",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-gdpr-2016.pdf",
+      "size_bytes": 1538062
+    },
+    "scf-strm-emea-eu-nis2-2022.pdf": {
+      "sha256": "edf3e6d6edf24ebd281f318c2c008ed4872da7c5eead43cf76c5c9f951067a60",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-nis2-2022.pdf",
+      "size_bytes": 495516
+    },
+    "scf-strm-emea-eu-nis2-annex-2024.pdf": {
+      "sha256": "4c5af77489438aad2fe0898b7bad4e262238b07f3a9180d54d0506a4affe890d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-nis2-annex-2024.pdf",
+      "size_bytes": 1760963
+    },
+    "scf-strm-emea-eu-psd2-2015.pdf": {
+      "sha256": "251a4af99e476c474bb92da0ec6cfc328318352caa74900d1fdfe53b6e988a6f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-eu-psd2-2015.pdf",
+      "size_bytes": 1911989
+    },
+    "scf-strm-emea-gbr-caf-4-0.pdf": {
+      "sha256": "6a1d631de214d7bb1865321e504d3845535fdfebf7c8eb3975fa4378565fa431",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-caf-4-0.pdf",
+      "size_bytes": 315269
+    },
+    "scf-strm-emea-gbr-cap-1850-2020.pdf": {
+      "sha256": "b039e3dc3d88fd29059173f5e2e7498aa8f72afad76d52276628e69f5891f476",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-cap-1850-2020.pdf",
+      "size_bytes": 168383
+    },
+    "scf-strm-emea-gbr-cyber-essentials-requirements-3-3.pdf": {
+      "sha256": "12c6772e04c7526cfd5ea4ba14821be13acba592bba4c1fc58cc9f7cca2ce135",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-cyber-essentials-requirements-3-3.pdf",
+      "size_bytes": 165649
+    },
+    "scf-strm-emea-gbr-def-stan-05-138-2024.pdf": {
+      "sha256": "c23bc7e4d3d99f1b3b58cb9e62bea8c9b8ce84109c33f178b460063b80360706",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-def-stan-05-138-2024.pdf",
+      "size_bytes": 1009565
+    },
+    "scf-strm-emea-gbr-def-stan-05-138-l0-2024.pdf": {
+      "sha256": "4d3f47cc34188540322a88c16d96c93b86caffe8bf8480427155ef10372109c6",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-def-stan-05-138-l0-2024.pdf",
+      "size_bytes": 62890
+    },
+    "scf-strm-emea-gbr-def-stan-05-138-l1-2024.pdf": {
+      "sha256": "1b7d46d48b8a4bf1de04c99e4de4de73177ede80d8941e2f51822c6996048d26",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-def-stan-05-138-l1-2024.pdf",
+      "size_bytes": 677631
+    },
+    "scf-strm-emea-gbr-def-stan-05-138-l2-2024.pdf": {
+      "sha256": "eeb2bb86ca8be564e4dfe3375694a27d2f5ba38ed49c58dc765cdcfcead1e591",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-def-stan-05-138-l2-2024.pdf",
+      "size_bytes": 931374
+    },
+    "scf-strm-emea-gbr-def-stan-05-138-l3-2024.pdf": {
+      "sha256": "1cf93cf441749d506785552d2e2ad66d2507b8e103cca429f761f6ac14a481b4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-def-stan-05-138-l3-2024.pdf",
+      "size_bytes": 970723
+    },
+    "scf-strm-emea-gbr-dpa-2018.pdf": {
+      "sha256": "086ae08e317852102460c9460ab2834f7a44f6179d69a5cd8047fde5de6393da",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-gbr-dpa-2018.pdf",
+      "size_bytes": 17818804
+    },
+    "scf-strm-emea-grc-pirppd-1997.pdf": {
+      "sha256": "3e3bb260fd44a9e120638a7b74a26fb85fef0acdcdfd0a96ba2ea982ee15ec13",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-grc-pirppd-1997.pdf",
+      "size_bytes": 517579
+    },
+    "scf-strm-emea-hun-act-cxii-2011.pdf": {
+      "sha256": "52b627e0685d1fef294c1b471c893abcebedc5f60a38a951fa7228bdc0d0ab17",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-hun-act-cxii-2011.pdf",
+      "size_bytes": 1226920
+    },
+    "scf-strm-emea-irl-dpa-2018.pdf": {
+      "sha256": "f9e5434885fafae4d1e41619b6fcf85635304a23927b6b85d04e4c7d21a0e89d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-irl-dpa-2018.pdf",
+      "size_bytes": 640470
+    },
+    "scf-strm-emea-isr-cmo-2-0.pdf": {
+      "sha256": "78f5cd2588edaa2bce1ffbc57e554c1520eff5bc8c8c604f7dc41f62c41d68dd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-isr-cmo-2-0.pdf",
+      "size_bytes": 370986
+    },
+    "scf-strm-emea-isr-ppl-5741-2025.pdf": {
+      "sha256": "5e40c2b78c1f39e0602f73f0de8943c01e56a921f53da9d0c9cc20ce49d8efaf",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-isr-ppl-5741-2025.pdf",
+      "size_bytes": 201853
+    },
+    "scf-strm-emea-ita-pdpc-2018.pdf": {
+      "sha256": "6dff1145fa9c720e0fd5da9eb85dd75805cdb46190c1f0ba8144802ada5fa50e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-ita-pdpc-2018.pdf",
+      "size_bytes": 1291654
+    },
+    "scf-strm-emea-ken-pda-2019.pdf": {
+      "sha256": "dcd5e32a251ed4743970b25030494845b82530f9e2e5c6e969ab99afd9d817e4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-ken-pda-2019.pdf",
+      "size_bytes": 953026
+    },
+    "scf-strm-emea-nga-dpr-2019.pdf": {
+      "sha256": "37dc0f02dc34393dbff1763a9503cdb758ad17ff7c13d410b114432c415acbfd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-nga-dpr-2019.pdf",
+      "size_bytes": 527819
+    },
+    "scf-strm-emea-nor-pda-2018.pdf": {
+      "sha256": "f1b29f6fa3108f1a2793783db1fb8635b5d31f24bbec24b9f3af1b7f45ec0683",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-nor-pda-2018.pdf",
+      "size_bytes": 234781
+    },
+    "scf-strm-emea-pol-act-10-2018.pdf": {
+      "sha256": "756a716b388ea0e930bb8050f5ccece503d1c18522a4a77fa62745d204115144",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-pol-act-10-2018.pdf",
+      "size_bytes": 477857
+    },
+    "scf-strm-emea-qat-pdppl-2020.pdf": {
+      "sha256": "bb52c7dab54afa7bf11fa687f3cc8a0eaa43ae56f55ddc4a672dc1805b83be56",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-qat-pdppl-2020.pdf",
+      "size_bytes": 303329
+    },
+    "scf-strm-emea-rus-152-fz-2025.pdf": {
+      "sha256": "49facc1de8dc85ac4f5d0e7bf49daa26a497ae724ef18facaca8092d39f3c1d7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-rus-152-fz-2025.pdf",
+      "size_bytes": 225004
+    },
+    "scf-strm-emea-sau-cgiot-2024.pdf": {
+      "sha256": "38eaa2a7ce7919c8d341f86ed74fe1d9ae2e1ee4c88ecb9e740ae79e519c35c5",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-cgiot-2024.pdf",
+      "size_bytes": 647222
+    },
+    "scf-strm-emea-sau-cscc-1-2019.pdf": {
+      "sha256": "2e942d6e15f5c9a625565efd7094e576745ec5e195ed112390749d0de9eef7cc",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-cscc-1-2019.pdf",
+      "size_bytes": 826728
+    },
+    "scf-strm-emea-sau-ecc-1-2018.pdf": {
+      "sha256": "b6f31b4cc539cc900f787b33d765499b7ee45b4d9edf2a45c7266e76ad8f7f4d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-ecc-1-2018.pdf",
+      "size_bytes": 1150888
+    },
+    "scf-strm-emea-sau-otcc-1-2022.pdf": {
+      "sha256": "e188a0f5c2db717102bb3825cba695889331f4d2e86cc596ad4e4f4342ee17d2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-otcc-1-2022.pdf",
+      "size_bytes": 845054
+    },
+    "scf-strm-emea-sau-pdpl-2023.pdf": {
+      "sha256": "3cc75f6feffce7a25c3f70f9a1d06600028924186528858ea22fd1fb940009dc",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-pdpl-2023.pdf",
+      "size_bytes": 499270
+    },
+    "scf-strm-emea-sau-sacs-002-2022.pdf": {
+      "sha256": "3a8acac65e51a275a4d3624677d38bf5309c09299ee44b9a37d33ef99680cf14",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-sacs-002-2022.pdf",
+      "size_bytes": 538343
+    },
+    "scf-strm-emea-sau-sama-csf-1-2017.pdf": {
+      "sha256": "31ddd6df50671898020a0cbb5341a35f9ed7a890a49a33befdd5cc49700d2355",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-sau-sama-csf-1-2017.pdf",
+      "size_bytes": 1587702
+    },
+    "scf-strm-emea-srb-act-9-2018.pdf": {
+      "sha256": "7e52cd914c13975303963cef1c05e710369f299396f039c16863df5cf0a00523",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-srb-act-9-2018.pdf",
+      "size_bytes": 1417572
+    },
+    "scf-strm-emea-tur-lppd-2016.pdf": {
+      "sha256": "f66444ad846336115599f6e1f732f101c849cf2344c91ad5c98a5739c0d5eda5",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-tur-lppd-2016.pdf",
+      "size_bytes": 808479
+    },
+    "scf-strm-emea-uae-niaf-2023.pdf": {
+      "sha256": "540e9c957aab171c7893e4a3547463653afacc738c47071de614d9c25d4f42a2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-uae-niaf-2023.pdf",
+      "size_bytes": 133515
+    },
+    "scf-strm-emea-zaf-popia-2013.pdf": {
+      "sha256": "9771aa08801f7005357c1bebe583623aa8e73a9d4a21cd3bbab7e52a8b5e7f58",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-emea-zaf-popia-2013.pdf",
+      "size_bytes": 1437792
+    },
+    "scf-strm-general-aicpa-pmf-2020.pdf": {
+      "sha256": "b76c2bbd6cb893df1514eaed44229df0cb36cbfe3371ed2c48a9f27af31dfeed",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-aicpa-pmf-2020.pdf",
+      "size_bytes": 703663
+    },
+    "scf-strm-general-aicpa-tsc-2017.pdf": {
+      "sha256": "af60e063161ad7a7453b0c596f4c7df5b8ccaa45a3accb7cd7ca0480ab5b9997",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-aicpa-tsc-2017.pdf",
+      "size_bytes": 4204149
+    },
+    "scf-strm-general-apec-privacy-framework-2015.pdf": {
+      "sha256": "0bd7506343bfcf7a90dde24cd62fd1af196684f3a6b0e72a0ed65af976f37534",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-apec-privacy-framework-2015.pdf",
+      "size_bytes": 128191
+    },
+    "scf-strm-general-bsi-200-1-1-0.pdf": {
+      "sha256": "3a43f897f5cd6b88951e8ce7bc5c0e4f03b26e9a6559ae07fbbb2fcdebbc5ace",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-bsi-200-1-1-0.pdf",
+      "size_bytes": 330011
+    },
+    "scf-strm-general-cis-csc-8-1-ig1.pdf": {
+      "sha256": "2d204d71ddb8648dacb5ba2344ae746e99e431234fa1cdf9f40744cf1b97742e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cis-csc-8-1-ig1.pdf",
+      "size_bytes": 460283
+    },
+    "scf-strm-general-cis-csc-8-1-ig2.pdf": {
+      "sha256": "22f1d0e425cd802612dab67c98c3a40b9d191eee824837c5d075a8cbe1f836ed",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cis-csc-8-1-ig2.pdf",
+      "size_bytes": 1051623
+    },
+    "scf-strm-general-cis-csc-8-1-ig3.pdf": {
+      "sha256": "9be44fbc8a517dbafc27231768fa6d8f60eb96c7f002d7f18314b099b5dc8ea2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cis-csc-8-1-ig3.pdf",
+      "size_bytes": 1198259
+    },
+    "scf-strm-general-cis-csc-8-1.pdf": {
+      "sha256": "4a05a6e3f174df3f874da1ff7a58b317c82d56a2acbf4a749e8052f2326ab0a4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cis-csc-8-1.pdf",
+      "size_bytes": 1317718
+    },
+    "scf-strm-general-cobit-2019.pdf": {
+      "sha256": "564f9d598eb14a6282443157f621b8abd1df16fccdceb7f3065094fb71844a82",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cobit-2019.pdf",
+      "size_bytes": 1454195
+    },
+    "scf-strm-general-coso-2013.pdf": {
+      "sha256": "349acc45b833108c4af56f2536e522d2170a9250ceabd55e853690e19f892832",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-coso-2013.pdf",
+      "size_bytes": 475119
+    },
+    "scf-strm-general-cr-cmm-2026.pdf": {
+      "sha256": "170e851563c3cd68cf2a4bc2cb65d6597c9f53c9e348da1343158fe4ae724336",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-cr-cmm-2026.pdf",
+      "size_bytes": 209449
+    },
+    "scf-strm-general-csa-cmm-4-1-0.pdf": {
+      "sha256": "137cff917495f12d068c3e4d2e08630413db2f112dfa68699312081895f7a143",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-csa-cmm-4-1-0.pdf",
+      "size_bytes": 1437308
+    },
+    "scf-strm-general-csa-iot-2.pdf": {
+      "sha256": "938a451420d095d6d37668ae15da99e285c88a95d583e0eb452bc14b3cfd2ae9",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-csa-iot-2.pdf",
+      "size_bytes": 1378786
+    },
+    "scf-strm-general-govramp-core.pdf": {
+      "sha256": "428c6eac2cb87c68f4c5170fd5d3f3fe80f442d522cb1eee7484d819fd00148b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp-core.pdf",
+      "size_bytes": 477272
+    },
+    "scf-strm-general-govramp-high.pdf": {
+      "sha256": "d3304aaef6068c7a52f3c96113054b61ac3329e71433fa28163ebeb4b2778782",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp-high.pdf",
+      "size_bytes": 2097814
+    },
+    "scf-strm-general-govramp-low-plus.pdf": {
+      "sha256": "61e38ad285801ec417fb7b9c54981b94ee944e274e064989ef5f2ab9bd4f84c6",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp-low-plus.pdf",
+      "size_bytes": 1225155
+    },
+    "scf-strm-general-govramp-low.pdf": {
+      "sha256": "eea93eaffbebff8908eb1818f8fd83e5760f74d1417c58d664a53f704f2524fd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp-low.pdf",
+      "size_bytes": 985873
+    },
+    "scf-strm-general-govramp-mod.pdf": {
+      "sha256": "f2b7a8639dab7ef60bdfa4d2b431895e362ead88ec97304bc9526cb8f89e2a00",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp-mod.pdf",
+      "size_bytes": 1723122
+    },
+    "scf-strm-general-govramp.pdf": {
+      "sha256": "f316fecc8a0855bc830ca1862c54ea5bbb863034d488ce8554af465ecda48b1f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-govramp.pdf",
+      "size_bytes": 2627689
+    },
+    "scf-strm-general-iec-62443-2-1-2024.pdf": {
+      "sha256": "f83a9e7c71a07a9010aa3f2c0407d7dd44f46586cc57608c5b1382e8ec5a51b6",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iec-62443-2-1-2024.pdf",
+      "size_bytes": 507548
+    },
+    "scf-strm-general-iec-62443-3-3-2013.pdf": {
+      "sha256": "96dc64e9ea13aadc66f001be49f2f5414cee406be988ff840449dd01694fe088",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iec-62443-3-3-2013.pdf",
+      "size_bytes": 401010
+    },
+    "scf-strm-general-iec-62443-4-1-2018.pdf": {
+      "sha256": "f97dd8e081414a0f4af0b150b6c2c3d8f6e2fc3ca08a5fb36689a77fc0b67702",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iec-62443-4-1-2018.pdf",
+      "size_bytes": 596549
+    },
+    "scf-strm-general-iec-62443-4-2-2019.pdf": {
+      "sha256": "48744e0268423b78f4052b0831204562744b74d6c9aee78082b1fe5e4ec58eae",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iec-62443-4-2-2019.pdf",
+      "size_bytes": 591413
+    },
+    "scf-strm-general-iec-tr-60601-4-5-2021.pdf": {
+      "sha256": "5a7d560dbb561c1d0234e767721093c6286445560075f7ee844a4f5dd339885f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iec-tr-60601-4-5-2021.pdf",
+      "size_bytes": 230974
+    },
+    "scf-strm-general-imo-maritime-cyber-risk-management-2025.pdf": {
+      "sha256": "f5dc9c46c50309979590cf47cb2f51615138b47a903b4ad3fa3b077e61af458b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-imo-maritime-cyber-risk-management-2025.pdf",
+      "size_bytes": 365741
+    },
+    "scf-strm-general-iso-21434-2021.pdf": {
+      "sha256": "395ccd9e46f2ba492617eaa9836f5d54d602725c57ecafbc6a214793db0d226b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-21434-2021.pdf",
+      "size_bytes": 1465894
+    },
+    "scf-strm-general-iso-22301-2019.pdf": {
+      "sha256": "af39eb7fdf05a14e75f30e076713d7eeae409e23301ce92549503cd0018f0962",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-22301-2019.pdf",
+      "size_bytes": 874453
+    },
+    "scf-strm-general-iso-27001-2022.pdf": {
+      "sha256": "dc60d2358e1ba70036f966f8a296cc9cde4e8f358e401793f3d588be9a079e6b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-27001-2022.pdf",
+      "size_bytes": 1053040
+    },
+    "scf-strm-general-iso-27002-2022.pdf": {
+      "sha256": "44b77849bf42b08acbc1d2d00cc5d71d0872e2ec0310afb2f66bbd9db65e2fa1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-27002-2022.pdf",
+      "size_bytes": 1475344
+    },
+    "scf-strm-general-iso-27017-2015.pdf": {
+      "sha256": "59e98b2f7e854253958bd6520b4d39c91a7f107045d2b6b7e54c1664d5b94877",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-27017-2015.pdf",
+      "size_bytes": 1176875
+    },
+    "scf-strm-general-iso-27018-2025.pdf": {
+      "sha256": "680f02717e9156f28a8bf42ca81aee7b5711eba00044950e7094a4beacd51a7c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-27018-2025.pdf",
+      "size_bytes": 1520948
+    },
+    "scf-strm-general-iso-27701-2025.pdf": {
+      "sha256": "d39dcb7bfc3b13b7700dd1937f617faab6ec631308f3040563e47ddad50c21d8",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-27701-2025.pdf",
+      "size_bytes": 494344
+    },
+    "scf-strm-general-iso-29100-2024.pdf": {
+      "sha256": "5c515343fd0e182531e10f8e9ac9d32536fe0ffddc45a5286fe560da4f018f01",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-29100-2024.pdf",
+      "size_bytes": 119975
+    },
+    "scf-strm-general-iso-31000-2018.pdf": {
+      "sha256": "0e92174feeb231a76ffa43036980e6b3764bd4e5cd29de4d73f7a6955d0a7443",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-31000-2018.pdf",
+      "size_bytes": 369846
+    },
+    "scf-strm-general-iso-31010-2009.pdf": {
+      "sha256": "750163a21b6ec953fab26d28f342615b287b22920ec1c90ae44109638794490a",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-31010-2009.pdf",
+      "size_bytes": 242832
+    },
+    "scf-strm-general-iso-42001-2023.pdf": {
+      "sha256": "da73bda035bf580cc509576f067ad284b613acbd9ba6df7eeed0db1c28826ab9",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-iso-42001-2023.pdf",
+      "size_bytes": 1686500
+    },
+    "scf-strm-general-mitre-att_ck-16-1.pdf": {
+      "sha256": "fec6d719c2e17abd37596094578e2650b58072551bbdcc58b4ec9af3077e1597",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-mitre-att_ck-16-1.pdf",
+      "size_bytes": 1539346
+    },
+    "scf-strm-general-mpa-csbp-5-3-1.pdf": {
+      "sha256": "1e331a90e55b1868b43218c0b6ad7ce4e4daa5a550955ba68d671654cacbec9c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-mpa-csbp-5-3-1.pdf",
+      "size_bytes": 1135822
+    },
+    "scf-strm-general-naic-insurance-data-security-model-law-668-2017.pdf": {
+      "sha256": "c267033a8fa3e2ee09c11cead41372e6521ad0be2be89fc6602a3950b1bc069d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-naic-insurance-data-security-model-law-668-2017.pdf",
+      "size_bytes": 515150
+    },
+    "scf-strm-general-nist-100-1-ai-rmf.pdf": {
+      "sha256": "6e02d181f32d0acd59a8156ecd97267ebe463a5f1c137014d6c3cc368d17bc5e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-100-1-ai-rmf.pdf",
+      "size_bytes": 938755
+    },
+    "scf-strm-general-nist-600-1-gen-ai-profile.pdf": {
+      "sha256": "f8ff258cdd191580b33e6db1e6300d826799f6875444e4886627ec09e348f811",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-600-1-gen-ai-profile.pdf",
+      "size_bytes": 1301798
+    },
+    "scf-strm-general-nist-800-160-vol-2-r1.pdf": {
+      "sha256": "2e43709f868ed6594c83b2d156ed89d8978066565a9f5613210f888a32b3279d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-160-vol-2-r1.pdf",
+      "size_bytes": 1092720
+    },
+    "scf-strm-general-nist-800-161-r1-cscrm.pdf": {
+      "sha256": "9418232fc0b20e49f4170970b97872c107580a9a424df9fe54bd1e957f86bd95",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1-cscrm.pdf",
+      "size_bytes": 338151
+    },
+    "scf-strm-general-nist-800-161-r1-flowdown.pdf": {
+      "sha256": "ec639a3982685ff073c351ca0bab06cb6a7d8d5626628c695294ed8665072f18",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1-flowdown.pdf",
+      "size_bytes": 519309
+    },
+    "scf-strm-general-nist-800-161-r1-level-1.pdf": {
+      "sha256": "751c803fab82766bb5604a0af40e060af71054edfda4f9c856a19d59648e8d55",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1-level-1.pdf",
+      "size_bytes": 570525
+    },
+    "scf-strm-general-nist-800-161-r1-level-2.pdf": {
+      "sha256": "9772e53d53fd7525006a9737389c70301346db129c48b932638144644dfafb54",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1-level-2.pdf",
+      "size_bytes": 1081585
+    },
+    "scf-strm-general-nist-800-161-r1-level-3.pdf": {
+      "sha256": "3e603c17dbce5aaa2c30676610da8b1ef0dfe0c60c1bc27ca260d078f7b82be1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1-level-3.pdf",
+      "size_bytes": 1074786
+    },
+    "scf-strm-general-nist-800-161-r1.pdf": {
+      "sha256": "2112ac75631f03061e594af26346a1a469237203c6d11a319030ebc9b163b306",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-161-r1.pdf",
+      "size_bytes": 1677087
+    },
+    "scf-strm-general-nist-800-171-r2.pdf": {
+      "sha256": "9af72a59c9241ad5e91a46cc9a4dc3d38f4ffa35004b0e5196a910abc4fc5020",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-171-r2.pdf",
+      "size_bytes": 1018922
+    },
+    "scf-strm-general-nist-800-171-r3.pdf": {
+      "sha256": "bf4d9adf0c87b436d4bc9df7726dac8b38f899ccc84642180a2e3918cd3fbaa3",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-171-r3.pdf",
+      "size_bytes": 3509568
+    },
+    "scf-strm-general-nist-800-171a-r3.pdf": {
+      "sha256": "198c7f6d63f6daf09a1251f07f7e06dbe5a1b020360fb61e84683b25d0d0f29d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-171a-r3.pdf",
+      "size_bytes": 4741932
+    },
+    "scf-strm-general-nist-800-171a.pdf": {
+      "sha256": "8ea4c161e2eed74663ebe6eb3d90a931f212f7e232f283067b20d54b8b1becb4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-171a.pdf",
+      "size_bytes": 1360135
+    },
+    "scf-strm-general-nist-800-172-r3.pdf": {
+      "sha256": "a0faa8d4dfb4206eddfa8bab2f74751666f788f81cb4cfbcd42fa5aabb40dc30",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-172-r3.pdf",
+      "size_bytes": 840575
+    },
+    "scf-strm-general-nist-800-172a-r3.pdf": {
+      "sha256": "7416998e29bab6ac59e06c918cba929f50f95397af4a8f35d8bdc283ecbd118c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-172a-r3.pdf",
+      "size_bytes": 1511087
+    },
+    "scf-strm-general-nist-800-207.pdf": {
+      "sha256": "cd81797ea2cd754f53f8258cf2710cefa8e6313e89b98156b054a34f418bccce",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-207.pdf",
+      "size_bytes": 403547
+    },
+    "scf-strm-general-nist-800-218.pdf": {
+      "sha256": "715f7758830b548b79f1a19cf3888fb610582e3b33ee8081a9aaf4e57f0878a2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-218.pdf",
+      "size_bytes": 606712
+    },
+    "scf-strm-general-nist-800-37-r2.pdf": {
+      "sha256": "9af70d1c393ae988732d608e60b1f0302a847407b0a8ae622256f04138faecd0",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-37-r2.pdf",
+      "size_bytes": 278195
+    },
+    "scf-strm-general-nist-800-39.pdf": {
+      "sha256": "c8af299402a7ebdcd1fc6cdc46c0fe893a770ae949acc087a57f078ae4d02698",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-39.pdf",
+      "size_bytes": 122171
+    },
+    "scf-strm-general-nist-800-53-r5-2-high.pdf": {
+      "sha256": "6908c7248ea64e2d55948621a726560bc2cce21701b90f5e44e1ce9b5288e017",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-53-r5-2-high.pdf",
+      "size_bytes": 420184
+    },
+    "scf-strm-general-nist-800-53-r5-2-low.pdf": {
+      "sha256": "2da092c908cde76985ab06b806de48d0ca1fa197f7eee3256638558c6b31fecd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-53-r5-2-low.pdf",
+      "size_bytes": 1157627
+    },
+    "scf-strm-general-nist-800-53-r5-2-mod.pdf": {
+      "sha256": "137299570f285236e2408b4be1c4be773c848e9156eb50546bed3c0d125499fb",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-53-r5-2-mod.pdf",
+      "size_bytes": 664792
+    },
+    "scf-strm-general-nist-800-53-r5-2-privacy.pdf": {
+      "sha256": "4141938a5e3cae0948b68522424b6856e36f62c003eda151f0ec64bccf8dcc53",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-53-r5-2-privacy.pdf",
+      "size_bytes": 1992591
+    },
+    "scf-strm-general-nist-800-53-r5-2.pdf": {
+      "sha256": "ede9bb6d0b3ea8739ec40df8d0dcd10b8c85f95fc4896cefd00a139e07024211",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-53-r5-2.pdf",
+      "size_bytes": 5251678
+    },
+    "scf-strm-general-nist-800-66-r2.pdf": {
+      "sha256": "df2937b6d4daf670d7741b130e7066ed7e388403d02b52458dabf93ab7186a44",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-66-r2.pdf",
+      "size_bytes": 633380
+    },
+    "scf-strm-general-nist-800-82-r3-high.pdf": {
+      "sha256": "45cf55cb4bf25b382e6e73d0c752e6dbf685a716c5007af1b78032234d2b9f14",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-82-r3-high.pdf",
+      "size_bytes": 1895333
+    },
+    "scf-strm-general-nist-800-82-r3-low.pdf": {
+      "sha256": "4b02ae658f40d5ffc18a602d3da88de0305b55fde3df00078df0c0bd0d8f93b3",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-82-r3-low.pdf",
+      "size_bytes": 1134710
+    },
+    "scf-strm-general-nist-800-82-r3-mod.pdf": {
+      "sha256": "9e2e2cadb6609aa5e57fd509e8ab8e0cbf720e1061c9638fd88463bf922ac5cd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-82-r3-mod.pdf",
+      "size_bytes": 1642250
+    },
+    "scf-strm-general-nist-800-82-r3.pdf": {
+      "sha256": "ec154fc828022f923ebcbb2ed5bfdf896e58bbed6f43622b33fe0cbc03a67bf9",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-800-82-r3.pdf",
+      "size_bytes": 4700278
+    },
+    "scf-strm-general-nist-csf-2-0.pdf": {
+      "sha256": "42b46918c03752176d1e27bc891cc6d6a61785ec272e2b330175d14eea8dea90",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-csf-2-0.pdf",
+      "size_bytes": 1731784
+    },
+    "scf-strm-general-nist-cswp-39.pdf": {
+      "sha256": "8ee692dc44efa06db0abcdb320b987d727d238a115ff089b732e5aaa5ffa86c5",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-cswp-39.pdf",
+      "size_bytes": 275509
+    },
+    "scf-strm-general-nist-privacy-framework-1-0.pdf": {
+      "sha256": "8f8649408a68a8216ebfa408ab63e11dbc2b41d8c63385db24801b73886f334d",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-nist-privacy-framework-1-0.pdf",
+      "size_bytes": 449587
+    },
+    "scf-strm-general-oecd-privacy-principles-2010.pdf": {
+      "sha256": "23001ca5195e4ad18df375ea8485073173c0d2228c1416679481863f92426e6e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-oecd-privacy-principles-2010.pdf",
+      "size_bytes": 118290
+    },
+    "scf-strm-general-owasp-top-10-2025.pdf": {
+      "sha256": "55015145e91760c22c4386f8d9e2c5072fdcbfb37c29d023c7292a4f300dee4f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-owasp-top-10-2025.pdf",
+      "size_bytes": 1478804
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-a-ep.pdf": {
+      "sha256": "cdd07c97a09c3470fbde0a629037bff3f933c76934518f3c2d0e5d64643388e2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-a-ep.pdf",
+      "size_bytes": 1729390
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-a.pdf": {
+      "sha256": "5533c28ba12225efccb030e5f79b95b3428ecf941ac4dae4321ad3d49f2ce6c0",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-a.pdf",
+      "size_bytes": 352436
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-b-ip.pdf": {
+      "sha256": "592d047ac05bfb4f16af62148a4d2d89ab63f32c5fb39e0793e43b2309e0cfb1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-b-ip.pdf",
+      "size_bytes": 646671
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-b.pdf": {
+      "sha256": "deadddf88231be4fbde561f7ccfb9bf298018bc39046e8586985b7e0499a76e2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-b.pdf",
+      "size_bytes": 321744
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-c-vt.pdf": {
+      "sha256": "25d6602ca86d399ccaf79f334b475334e9f15a6cba350dc9a49ace5737bc71d3",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-c-vt.pdf",
+      "size_bytes": 581021
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-c.pdf": {
+      "sha256": "63cb2a64147951a05afeacbdda8b9694ad50ba52770c348a63da656e88297216",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-c.pdf",
+      "size_bytes": 1499960
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-d-merchant.pdf": {
+      "sha256": "0454261a19eb9956de9e8e164c245b851530452688dbd9a452169db697f70a25",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-d-merchant.pdf",
+      "size_bytes": 2807931
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-d-service-provider.pdf": {
+      "sha256": "b9c573a85023dfbce32b0734bc8bb6577b272d4ca9e9189ac46d5e7e0def218e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-d-service-provider.pdf",
+      "size_bytes": 3098647
+    },
+    "scf-strm-general-pci-dss-4-0-1-saq-p2pe.pdf": {
+      "sha256": "00ffd8e6b206c0d1d0e194cd949e671e8b7eb79d8d7cc0f49a83acda23641322",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1-saq-p2pe.pdf",
+      "size_bytes": 298251
+    },
+    "scf-strm-general-pci-dss-4-0-1.pdf": {
+      "sha256": "b746ec4f0ee697a68ba02ad351c51e793903858e2f197fbe175f8210dd622eb9",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-pci-dss-4-0-1.pdf",
+      "size_bytes": 3951075
+    },
+    "scf-strm-general-scf-dpmp-2025.pdf": {
+      "sha256": "5a68426155b56741b6973040be09c52c6ab0b8a0e4b67ed802857b80a237e81f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-scf-dpmp-2025.pdf",
+      "size_bytes": 844844
+    },
+    "scf-strm-general-sparta.pdf": {
+      "sha256": "1a4ba78c5c1a2f5b81271743ac6796c789520582fa11b5b2ddf0dd18a56a228e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-sparta.pdf",
+      "size_bytes": 464452
+    },
+    "scf-strm-general-swift-cscf-2025.pdf": {
+      "sha256": "e6ffd12f3fc29b288e8d171885daedb2251223b3facabf756c5ba77a085c772c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-swift-cscf-2025.pdf",
+      "size_bytes": 704099
+    },
+    "scf-strm-general-tisax-6-0-3.pdf": {
+      "sha256": "8adcf64f8354475948bd74b115786ac27566aa36337a7be7ae68f7828ecacbfa",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-tisax-6-0-3.pdf",
+      "size_bytes": 835099
+    },
+    "scf-strm-general-ul-2900-1-2017.pdf": {
+      "sha256": "5d464d4f0abd066efb8243dff574eb81c21e7c3612589d15d409c6a61a16ce68",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-ul-2900-1-2017.pdf",
+      "size_bytes": 297962
+    },
+    "scf-strm-general-ul-2900-2-2-2016.pdf": {
+      "sha256": "42692adae42662ec3fed5afc33af8307af59d37d58c4d1b5ce8b6925234eb3dc",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-ul-2900-2-2-2016.pdf",
+      "size_bytes": 303985
+    },
+    "scf-strm-general-un-155-2021.pdf": {
+      "sha256": "82f3b783977703223ef46ce1a7b0dbe37b1fccd351b4a011d7d91e97a3c098bd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-un-155-2021.pdf",
+      "size_bytes": 531881
+    },
+    "scf-strm-general-un-ece-wp-29-2020.pdf": {
+      "sha256": "4ec432b7b1a2dac40b9304c5b1fc3eae252906e052d66996fd4cf14e4bc773d0",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-general-un-ece-wp-29-2020.pdf",
+      "size_bytes": 529359
+    },
+    "scf-strm-usa-federal-cms-marse-2-0.pdf": {
+      "sha256": "7fb6722aea1fbbdeae56b81f532d76527d34077fed14ac3cad35f21a8af159fc",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-cms-marse-2-0.pdf",
+      "size_bytes": 4306127
+    },
+    "scf-strm-usa-federal-dhs-cisa-cpg-2-0.pdf": {
+      "sha256": "e3b4045ac9b632973cf744fa797b92c9c3d1152d5c0bb38196a41ce6dffc94dd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dhs-cisa-cpg-2-0.pdf",
+      "size_bytes": 623200
+    },
+    "scf-strm-usa-federal-dhs-cisa-ssdaf-2024.pdf": {
+      "sha256": "f38ffd55907f7b107c2ccb81f6416536c62819e850a94df5f5e11f663d5a7311",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dhs-cisa-ssdaf-2024.pdf",
+      "size_bytes": 198482
+    },
+    "scf-strm-usa-federal-dhs-cisa-tic-3-0.pdf": {
+      "sha256": "4795aebbe3e63f92dd0cdd7c2ae4f9ea9702272eb88fd11005d5c03f3ec61951",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dhs-cisa-tic-3-0.pdf",
+      "size_bytes": 620364
+    },
+    "scf-strm-usa-federal-doc-data-privacy-framework-2023.pdf": {
+      "sha256": "c6575ec143743b04c7f8e25f77c54188b2a279ccffc50e846df29e20c8fe2e70",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-doc-data-privacy-framework-2023.pdf",
+      "size_bytes": 798134
+    },
+    "scf-strm-usa-federal-doe-c2m2-2-1.pdf": {
+      "sha256": "0c51493385f90149f679243299d43478d00cd2de6e6defc6572437e80426bb85",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-doe-c2m2-2-1.pdf",
+      "size_bytes": 1619143
+    },
+    "scf-strm-usa-federal-dow-cert-rmm-1-2.pdf": {
+      "sha256": "f782330fb36460b81fa823e82f5b06be4a6749a1ad601268b9864c29a28c2235",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-cert-rmm-1-2.pdf",
+      "size_bytes": 2494114
+    },
+    "scf-strm-usa-federal-dow-cmmc-2-level-1-aos.pdf": {
+      "sha256": "b0e9088b760d25d2a8c872d07acf73dc4651a7d4eb48189db2f57c459ad33dcd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-cmmc-2-level-1-aos.pdf",
+      "size_bytes": 219916
+    },
+    "scf-strm-usa-federal-dow-cmmc-2-level-1.pdf": {
+      "sha256": "95cbd9d618479a0f480aae2334165858e259f74759f5bd4f0a379895f2bb1719",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-cmmc-2-level-1.pdf",
+      "size_bytes": 210601
+    },
+    "scf-strm-usa-federal-dow-cmmc-2-level-2.pdf": {
+      "sha256": "cf0e81e5f36ff57209c2157458275868b97ecf63b2c7f005d83626c140616771",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-cmmc-2-level-2.pdf",
+      "size_bytes": 692324
+    },
+    "scf-strm-usa-federal-dow-cmmc-2-level-3.pdf": {
+      "sha256": "31e0b29ff1de2872004712c764bc36589582ce4dd2d0f0564a987069d23a4fc2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-cmmc-2-level-3.pdf",
+      "size_bytes": 253179
+    },
+    "scf-strm-usa-federal-dow-dfars-252-204-7012.pdf": {
+      "sha256": "2715d340cada6d92b4dcb5bb7a6e3748483b9299a4fcb53c5a7d5ad9dbab61a5",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-dfars-252-204-7012.pdf",
+      "size_bytes": 197575
+    },
+    "scf-strm-usa-federal-dow-safeguarding-nnpi-2010.pdf": {
+      "sha256": "0609ab36d9733ef7ba7e45ca4e7f577dab5d81397d20be96c9c75d7123e7ff91",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-safeguarding-nnpi-2010.pdf",
+      "size_bytes": 786599
+    },
+    "scf-strm-usa-federal-dow-zt-roadmap-1-1.pdf": {
+      "sha256": "7599a7b24e0db4537dc34d4f121a4f68cbc8fafeb6570b3e001ca4fb37635508",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-zt-roadmap-1-1.pdf",
+      "size_bytes": 1030849
+    },
+    "scf-strm-usa-federal-dow-zta-reference-architecture-2-0.pdf": {
+      "sha256": "223fed51a9654e2726c11fc4ed06d8f654a7e6fc5495ac86a015e862f4d1a520",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-dow-zta-reference-architecture-2-0.pdf",
+      "size_bytes": 259358
+    },
+    "scf-strm-usa-federal-eo-14028.pdf": {
+      "sha256": "bbb4fbf827416465e83a22ca9f3e59c21c10c3a1bb5d4a750661da5562a60fcf",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-eo-14028.pdf",
+      "size_bytes": 193046
+    },
+    "scf-strm-usa-federal-far-52-204-21.pdf": {
+      "sha256": "307e9763cb3eb7a80d95dc7432d127938cc92b5bdf7c4643ddc7ed26123d9654",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-far-52-204-21.pdf",
+      "size_bytes": 234532
+    },
+    "scf-strm-usa-federal-far-52-204-25.pdf": {
+      "sha256": "f23eaef7b4d489bfd6ad3a1c701766f9b3157f46997830ad0ac39071bf2284ee",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-far-52-204-25.pdf",
+      "size_bytes": 94071
+    },
+    "scf-strm-usa-federal-far-52-204-27.pdf": {
+      "sha256": "6fca7993615dd0898fb8a30f78cbb66f3e1b27e6e87fec8cff12e2bf37ad2e51",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-far-52-204-27.pdf",
+      "size_bytes": 70804
+    },
+    "scf-strm-usa-federal-fbi-cjis-6-0.pdf": {
+      "sha256": "d90ccd9f0235de740d7b45c999a7643db1ce0f213fd46e3d2c94952522690f78",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-fbi-cjis-6-0.pdf",
+      "size_bytes": 177038
+    },
+    "scf-strm-usa-federal-fda-21-cfr-part-11-2025.pdf": {
+      "sha256": "97b429165070f0f246feffcfd362e5b630e772952b00eddce89436407e618475",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-fda-21-cfr-part-11-2025.pdf",
+      "size_bytes": 524528
+    },
+    "scf-strm-usa-federal-gsa-fedramp-5-high.pdf": {
+      "sha256": "26e6f6a24166f73f6a4de9ea58b752cf14dfa7ba88a87552f1ad3dc3c35c7457",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-gsa-fedramp-5-high.pdf",
+      "size_bytes": 2786168
+    },
+    "scf-strm-usa-federal-gsa-fedramp-5-li-saas.pdf": {
+      "sha256": "13329bbf0dc714ab4db0e06248337315902d01d119ccb8f076a0a7b7ca2706a1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-gsa-fedramp-5-li-saas.pdf",
+      "size_bytes": 2088491
+    },
+    "scf-strm-usa-federal-gsa-fedramp-5-low.pdf": {
+      "sha256": "f8b58f3b8bfc0961f4984c4f53cd2b058948c8d96264233efa313b900eecae36",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-gsa-fedramp-5-low.pdf",
+      "size_bytes": 2087778
+    },
+    "scf-strm-usa-federal-gsa-fedramp-5-mod.pdf": {
+      "sha256": "728086e712ec5b47ad9d8d1bc5094fff69ec56d85dbc016da7b52ccbe21c5a09",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-gsa-fedramp-5-mod.pdf",
+      "size_bytes": 2535087
+    },
+    "scf-strm-usa-federal-hhs-45-cfr-155-260-2016.pdf": {
+      "sha256": "11aaf6cd83cf24e2f2319bb7e688532c435c61b777d191c5d8431fb8a031c788",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-hhs-45-cfr-155-260-2016.pdf",
+      "size_bytes": 269381
+    },
+    "scf-strm-usa-federal-irs-1075-2021.pdf": {
+      "sha256": "8973d11ec4d3d6dbec2fe94defba7079958aa8f9d5076db12c39dc3f31ee920e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-irs-1075-2021.pdf",
+      "size_bytes": 3417224
+    },
+    "scf-strm-usa-federal-law-33-cfr-part-101-subpart-f.pdf": {
+      "sha256": "12f47341a4454451cc8626b390835a3e61d413a83da82e7f62f97fd869688533",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-33-cfr-part-101-subpart-f.pdf",
+      "size_bytes": 719578
+    },
+    "scf-strm-usa-federal-law-coppa-2024.pdf": {
+      "sha256": "74c8a793e268953c78bdfaa48060685f0c93557ed695335bd9232ac81bb30724",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-coppa-2024.pdf",
+      "size_bytes": 155407
+    },
+    "scf-strm-usa-federal-law-facta-fcra-2023.pdf": {
+      "sha256": "fecdd963b8fb18197890b25b737f21353a27f26f9378e995315a14880f814ee4",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-facta-fcra-2023.pdf",
+      "size_bytes": 2450807
+    },
+    "scf-strm-usa-federal-law-ferpa-2010.pdf": {
+      "sha256": "7b620824e7b64563c470d3a5d630a8bdf0e4e6179430ca0585d5170f567fea52",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-ferpa-2010.pdf",
+      "size_bytes": 480379
+    },
+    "scf-strm-usa-federal-law-ftc-act.pdf": {
+      "sha256": "5e157ad4f91792de9fac6d198975166c0324bd7ad19f92dc89f27de1db165d2e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-ftc-act.pdf",
+      "size_bytes": 241430
+    },
+    "scf-strm-usa-federal-law-glba-cfr-314-2023.pdf": {
+      "sha256": "489cd4500881008372453f76c5969bb6c7921ceca7361a6ea86c608b3c31e91c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-glba-cfr-314-2023.pdf",
+      "size_bytes": 426763
+    },
+    "scf-strm-usa-federal-law-hipaa-security-rule-2013.pdf": {
+      "sha256": "330f41a3bfc86fc16d0e07f07fa685eb97619c4a47b06fef888943c28a7e834f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-hipaa-security-rule-2013.pdf",
+      "size_bytes": 811113
+    },
+    "scf-strm-usa-federal-law-hipaa-simplification-2013.pdf": {
+      "sha256": "fd76e1d4685666bd58e0b59bc2317697a72ffa6b69e1de34cac5d1e875730241",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-hipaa-simplification-2013.pdf",
+      "size_bytes": 3735582
+    },
+    "scf-strm-usa-federal-law-sox-2002.pdf": {
+      "sha256": "8690b8004757e1757a770868d9714b243fa1d41eabc7051aa69eb16a49f68195",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-law-sox-2002.pdf",
+      "size_bytes": 114635
+    },
+    "scf-strm-usa-federal-nerc-cip-2024.pdf": {
+      "sha256": "40a06d08fe90f2e56419be695efbed7433f3204f04eea99232784d620b086dbd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-nerc-cip-2024.pdf",
+      "size_bytes": 972754
+    },
+    "scf-strm-usa-federal-nispom-2020.pdf": {
+      "sha256": "898e6edd20a1b718bbf90842f285b5259c98bba2ba932bbb17d0f31aa7ec7bc7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-nispom-2020.pdf",
+      "size_bytes": 1479611
+    },
+    "scf-strm-usa-federal-omb-fipps-1973.pdf": {
+      "sha256": "b4fce80231ccc78c06e8db0c9c5c991fc4fcd818661e1fd93281fbd257b3a83b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-omb-fipps-1973.pdf",
+      "size_bytes": 153593
+    },
+    "scf-strm-usa-federal-sec-cybersecurity-rule-2023.pdf": {
+      "sha256": "877fa8c8656e2b29ad832974f4213bd62d6bebc8a6e8da746973a26b2c869e7e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-sec-cybersecurity-rule-2023.pdf",
+      "size_bytes": 276951
+    },
+    "scf-strm-usa-federal-sro-fca-crm-2023.pdf": {
+      "sha256": "79c3a9b795bceda7869702f3307384601498e4c190039b29b8df6a9f315d8a33",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-sro-fca-crm-2023.pdf",
+      "size_bytes": 376597
+    },
+    "scf-strm-usa-federal-sro-finra.pdf": {
+      "sha256": "3e6946190f0ce89491cf0f6362adcc2a4f07baa8fdc4ac1170e318eff6ba5348",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-sro-finra.pdf",
+      "size_bytes": 1145599
+    },
+    "scf-strm-usa-federal-tsa-security-directive-1580-82-2022-01.pdf": {
+      "sha256": "85fc30fdf5f13bf0da9665f4d441f466f00ab3a8b7ec72f3229dbf7926e27b22",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-federal-tsa-security-directive-1580-82-2022-01.pdf",
+      "size_bytes": 491112
+    },
+    "scf-strm-usa-state-ak-pipa-2009.pdf": {
+      "sha256": "06eecdc6b1673bacab9785d3b10e0c427596d40fad68e44aafd1e72205c665ae",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ak-pipa-2009.pdf",
+      "size_bytes": 141067
+    },
+    "scf-strm-usa-state-ca-ccpa-cpra-2026.pdf": {
+      "sha256": "3b5fb399aef1285c4e872b12e8ce80f307187ce116ebe757e4a6797d4b390c3f",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ca-ccpa-cpra-2026.pdf",
+      "size_bytes": 3285030
+    },
+    "scf-strm-usa-state-ca-sb1386-2002.pdf": {
+      "sha256": "dc21ddb6b8949c7a61ebe936ea2ecbe06c762f9e56338ec3aa039ee29eb30b19",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ca-sb1386-2002.pdf",
+      "size_bytes": 187227
+    },
+    "scf-strm-usa-state-ca-sb327-2018.pdf": {
+      "sha256": "95e03d9ddbbb3d89db727dc0b34dc7eda371e829f737109557a7bfd04717eb1c",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ca-sb327-2018.pdf",
+      "size_bytes": 92487
+    },
+    "scf-strm-usa-state-co-privacy-act-2021.pdf": {
+      "sha256": "d2520f5be14ce0dba66c676f978cef5e00b675ff83a4890a5cb2cc29a8ec7d69",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-co-privacy-act-2021.pdf",
+      "size_bytes": 361467
+    },
+    "scf-strm-usa-state-il-bipa-2008.pdf": {
+      "sha256": "8592d6387e62c5dde394cd3277f5759640788f36b682abfb1081cc20063576c7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-il-bipa-2008.pdf",
+      "size_bytes": 173469
+    },
+    "scf-strm-usa-state-il-ipa-2009.pdf": {
+      "sha256": "6ad6bc1f10ef0b7e5e12b01b76de39a2dbcf544dfb1d5addc52fdbcc025afa2b",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-il-ipa-2009.pdf",
+      "size_bytes": 195565
+    },
+    "scf-strm-usa-state-il-pipa-2006.pdf": {
+      "sha256": "df88d4da54b66c72f5c7b6e6fe10ed555321f16a9d189f0bcdd619c405d013b0",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-il-pipa-2006.pdf",
+      "size_bytes": 265074
+    },
+    "scf-strm-usa-state-ma-201-cmr-17-2008.pdf": {
+      "sha256": "82af49550581ea2844dfff30a567862e7e5eaacd11a844e7757b04539d135f2e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ma-201-cmr-17-2008.pdf",
+      "size_bytes": 261715
+    },
+    "scf-strm-usa-state-nv-privacy-law-2023.pdf": {
+      "sha256": "5bf3062bccbf23e35e23d8cc9cbabbcd11b0494caa0fdd1bf8acbd646c4ada60",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-nv-privacy-law-2023.pdf",
+      "size_bytes": 773519
+    },
+    "scf-strm-usa-state-nv-regulation-5-2024.pdf": {
+      "sha256": "8e13ffbc5f99fe7939e7a98b0b2d5dd2f843979695c3e500e3bc4183530f1720",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-nv-regulation-5-2024.pdf",
+      "size_bytes": 125614
+    },
+    "scf-strm-usa-state-nv-sb220-2019.pdf": {
+      "sha256": "5ad550d1cb9d2e30f5ab9740eb426581db5160edc6b952f61e0c1df7e23ade58",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-nv-sb220-2019.pdf",
+      "size_bytes": 97544
+    },
+    "scf-strm-usa-state-ny-dfs-23-nycrr500-2023-amd2.pdf": {
+      "sha256": "aa96ac70608da9be4615889e3ac0482d5fa4f5740389a8052c85656b30caed40",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ny-dfs-23-nycrr500-2023-amd2.pdf",
+      "size_bytes": 1268846
+    },
+    "scf-strm-usa-state-ny-shield-act-2019.pdf": {
+      "sha256": "3001333cdd9d5c6246ca86a20c449b5e13ae1c139cec0735fafdbc71d271d3fd",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-ny-shield-act-2019.pdf",
+      "size_bytes": 295019
+    },
+    "scf-strm-usa-state-or-cpa-2023.pdf": {
+      "sha256": "7381218d9871bc6a3e77b0b693593d820a8f41fe1cfacc5145b0cc344d0dffc7",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-or-cpa-2023.pdf",
+      "size_bytes": 572891
+    },
+    "scf-strm-usa-state-or-ors-646a-2025.pdf": {
+      "sha256": "99cb7578816625d0b859236602aaf23ada0f0e9c91b706a97fe03a88a4578ad2",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-or-ors-646a-2025.pdf",
+      "size_bytes": 507484
+    },
+    "scf-strm-usa-state-tn-tipa-2025.pdf": {
+      "sha256": "6cad7421e922db29ee9cbf18c2f00f77024429876bfea8eae06a624a0c997f51",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tn-tipa-2025.pdf",
+      "size_bytes": 388551
+    },
+    "scf-strm-usa-state-tx-bc521-2009.pdf": {
+      "sha256": "f98e34b46fc8f1240006f32710c4200a6a09ae3b1dc615ba8462075f36cdfa3a",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-bc521-2009.pdf",
+      "size_bytes": 192177
+    },
+    "scf-strm-usa-state-tx-cdpa-2025.pdf": {
+      "sha256": "da46ae115e50b21307fceafdbe882005017b2235f9418f09cc7e7ffd69047f81",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-cdpa-2025.pdf",
+      "size_bytes": 591467
+    },
+    "scf-strm-usa-state-tx-dir-security-control-standards-catalog-2-2.pdf": {
+      "sha256": "e1c132334a7d1ddae5b3eeb11d77f3670f044249ee7c2ddc817ce5bd2be01a22",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-dir-security-control-standards-catalog-2-2.pdf",
+      "size_bytes": 1145592
+    },
+    "scf-strm-usa-state-tx-sb2610-2025.pdf": {
+      "sha256": "89d298ba82d7075c5f2bec43a1b5c31de1b79560a1405fa1151493ba19c3ff64",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-sb2610-2025.pdf",
+      "size_bytes": 170501
+    },
+    "scf-strm-usa-state-tx-sb820-2019.pdf": {
+      "sha256": "fcf7e7bfd62d9ee53000940b2a203614d2cf61e370179321e3e6466ccb8c07a1",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-sb820-2019.pdf",
+      "size_bytes": 78285
+    },
+    "scf-strm-usa-state-tx-txramp-2-0-level-1.pdf": {
+      "sha256": "de8997ba25b7c22e19415d7efc58e7d675c2824b750d543779a9f28971b612ed",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-txramp-2-0-level-1.pdf",
+      "size_bytes": 726235
+    },
+    "scf-strm-usa-state-tx-txramp-2-0-level-2.pdf": {
+      "sha256": "d1cf930ebed141d5754cc5bb15c0f9a46649f1ce32455970171f804e55501764",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-tx-txramp-2-0-level-2.pdf",
+      "size_bytes": 1108143
+    },
+    "scf-strm-usa-state-va-cdpa-2023.pdf": {
+      "sha256": "620dd6b6f813a76aed1f695646c4efd653795b2da23f665582fd3e99deefc17e",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-va-cdpa-2023.pdf",
+      "size_bytes": 517752
+    },
+    "scf-strm-usa-state-vt-act-171-2018.pdf": {
+      "sha256": "36b07d623a16993781ffc5c0d604df0aefcde3dd3910513c6f13cca4e4cae027",
+      "source_url": "https://content.securecontrolsframework.com/strm/scf-strm-usa-state-vt-act-171-2018.pdf",
+      "size_bytes": 333687
+    }
+  }
+}
